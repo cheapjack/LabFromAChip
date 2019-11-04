@@ -56,10 +56,14 @@ We are going to do a quick build of a  [Foldscope](https://www.foldscope.com/) P
 Refer to **Phone View** in **VIEWING** section overleaf.
 
 1. Take the round white double sided peel off sticker and stick it carefully over your phone camera lens, make sure you dont get the glue on the lens. It comes off with water if you do :smile:
+
 <img src="images/8.jpg" width="400">
-1. remove the white cover. Now theres a sticky side facing up.
+
+2. Remove the white cover. Now theres a sticky side facing up.
+
 <img src="images/16.jpg" width="400">
-1. Take the other coupler and place it silver side down over the lens. Keep the lens central to the couplers hole.
+
+3. Take the other coupler and place it silver side down over the lens. Keep the lens central to the couplers hole.
 
 #### Slide prep :bug:
 
@@ -68,15 +72,18 @@ Refer to **Phone View** in **VIEWING** section overleaf.
 1. Carefully with tweezers peel off the cured PDMS from your `555` timer chip in the petri-dish and place it so where it came into contact with the surface is flat on the surface of the slide, in the centre of the glass with the slide logo ledgible
 
 <img src="images/2.jpg" width="400">
-1. Take a micropipette and place the long tip from your kit on the end.
-1. Press and hold the button/plunger.
+
+2. Take a micropipette and place the long tip from your kit on the end.
+3. Press and hold the button/plunger.
+
 <img src="images/4.jpg" width="400">
-1. Get a friend to open and hold the 1.5ml Eppendorf tube with the algae suspension inside.
-1. Insert tip into the Eppendorf tube
-1. Release the plunger, it will have captured the number of micro litres indicated on the pipette of algae suspension
-1. place the tip by the side of the tiny section of silicon.
-1. Press the button to eject the algae suspension, it should find it's way under the PDMS slab by capillary action
-1. Peel off the clear sticky cover slip and place over the slab. If your slab is too thick, dont bother.
+
+4. Get a friend to open and hold the 1.5ml Eppendorf tube with the algae suspension inside.
+5. Insert tip into the Eppendorf tube
+6. Release the plunger, it will have captured the number of micro litres indicated on the pipette of algae suspension
+7. place the tip by the side of the tiny section of silicon.
+8. Press the button to eject the algae suspension, it should find it's way under the PDMS slab by capillary action
+9. Peel off the clear sticky cover slip and place over the slab. If your slab is too thick, dont bother.
 
 #### Viewing :eyes:
 
