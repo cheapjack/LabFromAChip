@@ -24,8 +24,6 @@ Lab-from-a-chip is a family friendly DIY intervention in Lab On A Chip technolog
 
  We realised we are already surrounded by exotic objects that are made of very small engineered structures: the tiny logos etched onto integrated circuits in our phones or humble doorbell, or the tiny grooves of a vinyl record. All you need is some Polydimethylsiloxane (PDMS) a *silicon polymer* that is inert, non-toxic and optically clear to use these exotic objects to manipulate living organisms.
 
- [Mikroskopisk PacMan](https://youtu.be/GvZm9EXqrdU) Erik Andrew Johannessen's high end microfluidics game is worth looking at for a playful exploration. Check out the [full video here](https://www.youtube.com/TVxNvWCTbYo) and read the [Vice article](https://www.vice.com/en_us/article/vv7zba/pac-man-inspires-norwegian-researchers-to-better-study-microorganisms) if you like that kind of thing. Back in the 1960s when the military funded the shrinking of transistors nobody thought they'd use it for fun with ghosts, stories and pictures of cats, just bombs and tracking communists, but just look at the weird cultures that turned into! I wonder where microfluidics will take us? Should we be even doing this? What knowledge and 'goods' does it make?
-
 
 ### Getting started
 
@@ -141,4 +139,6 @@ Im experimenting with DIY microfluidics to
 
 ## Other Interventions
 
-Helen Pritchard's [Critters on a chip](http://www.helenpritchard.info/artworks-projects/critter-compiler-prototype-2016)
+[Mikroskopisk PacMan](https://youtu.be/GvZm9EXqrdU) Erik Andrew Johannessen's high end microfluidics game is worth looking at for a playful exploration. Check out the [full video here](https://www.youtube.com/TVxNvWCTbYo) and read the [Vice article](https://www.vice.com/en_us/article/vv7zba/pac-man-inspires-norwegian-researchers-to-better-study-microorganisms) if you like that kind of thing. Back in the 1960s when the military funded the shrinking of transistors nobody thought they'd use it for fun with ghosts, stories and pictures of cats, just bombs and tracking communists, but just look at the weird cultures that turned into! I wonder where microfluidics will take us? Should we be even doing this? What knowledge and 'goods' does it make?  
+
+Helen Pritchard's [Critters on a chip](http://www.helenpritchard.info/artworks-projects/critter-compiler-prototype-2016) suggests we might get organisms in microfluidic environments writing code and literature.
