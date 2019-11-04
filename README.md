@@ -84,18 +84,26 @@ Refer to **Phone View** in **VIEWING** section overleaf.
 7. place the tip by the side of the tiny section of silicon.
 8. Press the button to eject the algae suspension, it should find it's way under the PDMS slab by capillary action
 9. Peel off the clear sticky cover slip and place over the slab. If your slab is too thick, dont bother.
+<img src="images/15.jpg" width="400">
 
 #### Viewing :eyes:
 
+
+<img src="images/13.jpg" width="400">
+
 1. Open & hold the rear flap, so the yellow side of the stage faces up
 1. Take your prepared slide and place cover slip or slab down over the tiny bubble of the ball lens.
-1. Let the bottom lens stage flap magnetically snap to hold the slide in place.
-1. Carefully turn over keeping slide in place. Use stickers if it slips. The blue side should face up
-1. Slide the focus ramp out so the `Z` mark on the stage lines up with the `0` on the focus ramp rule.
-1. Place on the desk with silver of coupler facing up
-1. Turn on your phone camera and slowly approach the coupler, the magnetic force whould make the stage jump up onto your phone.
-1. Watch and explore! Check your mould is in place, experiment with the focus and move around toward the light. Face a window or light or use the LED & Battery
 
+<img src="images/14.jpg" width="400">
+
+3. Let the bottom lens stage flap magnetically snap to hold the slide in place.
+4. Carefully turn over keeping slide in place. Use stickers if it slips. The blue side should face up
+5. Slide the focus ramp out so the `Z` mark on the stage lines up with the `0` on the focus ramp rule.
+6. Place on the desk with silver of coupler facing up
+7. Turn on your phone camera and slowly approach the coupler, the magnetic force whould make the stage jump up onto your phone.
+8. Watch and explore! Check your mould is in place, experiment with the focus and move around toward the light. Face a window or light or use the LED & Battery
+
+<img src="images/19.jpg" width="400">
 
 ### Background :computer:
 
