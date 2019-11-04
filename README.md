@@ -29,7 +29,7 @@ Lab-from-a-chip is a family friendly DIY intervention in Lab On A Chip technolog
 
 ### Getting started
 
-#### Make A PDMS Mould
+#### Make A PDMS Mould
 
 * Get a small blob of `A` PDMS in cover of the petri dish (the shallow side)
 * Get a small blob of `B` PDMS in cover of the petri dish
@@ -63,9 +63,10 @@ Refer to **Phone View** in **VIEWING** section overleaf.
 <img src="images/16.jpg" width="400">
 1. Take the other coupler and place it silver side down over the lens. Keep the lens central to the couplers hole.
 
-#### Slide prep :bug:
+#### Slide prep :bug:
 
 <img src="images/12.jpg" width="400">
+
 1. Carefully with tweezers peel off the cured PDMS from your `555` timer chip in the petri-dish and place it so where it came into contact with the surface is flat on the surface of the slide, in the centre of the glass with the slide logo ledgible
 
 <img src="images/2.jpg" width="400">
@@ -118,7 +119,7 @@ I review by reading and making, making and reading
  * Observe me making kits with researchers and students
  * Making kits and facilitating activity based on them in makerspace DoESLiverpool and other sites in the worlds related to my art practice.
 
-## Imaginaries
+## Imaginaries
 
 Lab on a chip is a powerful idea that includes many complicated imaginaries:
 
@@ -138,4 +139,6 @@ Im experimenting with DIY microfluidics to
 * Teach what microfluidics really are away from the master hyperbolic sales talk of Lab on A Chip.
 * Provide agency so other actors can take advantage of the field
 
-(callback to Helen Pritchard's Critters on a chip)
+## Other Interventions
+
+Helen Pritchard's [Critters on a chip](http://www.helenpritchard.info/artworks-projects/critter-compiler-prototype-2016)
