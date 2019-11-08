@@ -17,7 +17,7 @@ I'm interested in what happens when you take a system from science and engineeri
 
 It follows some [diverse approaches to DIY Microfluidics like this](http://fab.cba.mit.edu/classes/S62.12/people/tsai.liz/index.html), then follows the novel practices of people at BLS.
 
-I then take all kinds of ideas from STS and feminist technoscience to make a [Theoretical Repertoire](#theoretical-repertoire) to make a workshop exploring model organisms in DIY environments made from discarded domestic electronics and media.
+I then take all kinds of ideas from STS and feminist technoscience to make a [Theoretical Repertoire](#theoretical-repertoire-book-package) to make a workshop exploring model organisms in DIY environments made from discarded domestic electronics and media.
 
 Jump to [Getting Started](#getting-started) to get going
 
