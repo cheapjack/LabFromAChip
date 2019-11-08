@@ -149,6 +149,8 @@ Refer to **Phone View** in **VIEWING** section overleaf.
 
 ## Theoretical Repertoire :book: :package:
 
+<img src="images/boromit_meme_ready.jpg" width="400">
+
 In my research on kit culture, I try to build up a theoretical repertoire for tuning into what might be going on across various forms of biological knowledge production, then use this repertoire to make kits, a kind of `critical-making`. 
 
 These kits then become handy "boundary objects", objects that people from different disciplines or practices can use or understand, for exploring further and more intimately, growing the repertoire, making more kits with more people and so on. In my case they allow an artist doing research, 'laypersons'(different 'publics') and 'specialists'(scientists and their students) understand each other.
@@ -199,7 +201,7 @@ What **Lab on a chip** imaginaries are made?
   * These are like kits: they package up some bio processes and make them super mobile and easy
   * They are going to 'revolutionise' access to the industry, which you can see in the [Metafluidics](https://metafluidics.org/)    
   * Realise the genetics-to-order shop scenes of science fiction like Bladerunner etc.  
-
+  * It has all the intersections of biology, engineering, well meaning utility and agency for frugal science in 'intractable' places
 
 ### Invisible Work
 
