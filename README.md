@@ -34,7 +34,7 @@ Jump to [Getting Started](#getting-started) to get going
  * Critters that move like animals but eat like plants!
  * Making moulds from the capitalist ruins!
 
-## The World-To-Chip Barrier
+## Bridging The World-To-Chip Barrier
 
 *"Microfluidic devices are an enabling technology for many labs, facilitating a wide range of applications spanning high-throughput encapsulation, molecular separations, and long-term cell culture. In many cases, however, their utility is limited by a ‘world-to-chip’ barrier that makes it difficult to serially interface samples with these devices."*
 
@@ -55,7 +55,7 @@ What these chips really depend on is microfluidics, a development from electroni
 
 Making this technology involves dust free environments, vacuum systems and expensive photolithography to get it done 'right'. But this usually does not stop the DIY 'maker' impulse. Even [Scanning Tunneling Microscopes (STM)](http://dberard.com/home-buit-stm) have gone DIY. There is alot of open source work going on in the microfluidic community, not necessarily DIY, but I'm exploring how makerspaces can engage with it. 
 
-Im experimenting with DIY microfluidics I hope to
+In experimenting with DIY microfluidics I hope to
 
 * Teach what microfluidics really are away from the master hyperbolic sales talk of Lab on A Chip.
 * Explore 'agency' and the power relations and subjectivities so other actors can explore the field
@@ -146,7 +146,7 @@ Refer to **Phone View** in **VIEWING** section overleaf.
 <img src="images/19.jpg" width="400">
 
 
-### Theoretical Repertoire :book: :package:
+## Theoretical Repertoire :book: :package:
 
 In my research on kit culture, I try to build up a theoretical repertoire for tuning into what might be going on across various forms of biological knowledge production, then use this repertoire to make kits, a kind of `critical-making`. 
 
@@ -166,7 +166,7 @@ I build the repertoire by reading through making, making through reading and tal
  * Observe me making kits with researchers and students
  * Making kits and facilitating activity based on them in makerspace DoESLiverpool and other sites in the worlds related to my art practice.
 
-#### Imaginaries
+### Imaginaries
 
 STS method includes the use of ethnographic or other styles of 'case study'. This kit is one such emerging case. Ideas like socio technical imaginaries are relevant when thinking about what is really going on in powerful ideas like ***Lab on a chip***
 
@@ -178,7 +178,7 @@ STS method includes the use of ethnographic or other styles of 'case study'. Thi
 
 From [The Sociotechnical Imaginaries Project](http://sts.hks.harvard.edu/research/platforms/imaginaries/)
 
-## The Lab-On-A-Chip Imaginary
+### The Lab-On-A-Chip Imaginary
 
 Lab on a chip tech builds an interesting 'public imaginary', a narrative for both layperson and specialist, as a form of biological or chemical manufacturing akin to the so called silicon 'revolution'.
 
@@ -200,7 +200,7 @@ What **Lab on a chip** imaginaries are made?
   * Realise the genetics-to-order shop scenes of science fiction like Bladerunner etc.  
 
 
-#### Invisible Work
+### Invisible Work
 
 *"I took exception to a comment on maker education twitter a while back that kits used in tech education workshops are a great idea because they ‘save time’ in workshops; this could not be further from the truth. That well meaning comment unintentionally reveals what’s missing in understanding kits and by extension the whole maker meme and from there, other creative practice that uses technology in social settings: The care, thought, iterative failure, maintenance and communal resilience required for their success."*
 
@@ -225,7 +225,6 @@ This chimes with Susan Leigh Stars description of the invisible work that goes o
 *""Configuration, I have suggested here, is part of a toolkit for thinking about constitutive and generative, reiterative and (potentially) transformative material-semiotic conjoining. In the case of technology, configuration orients us to the entanglement of imaginaries and artefacts that comprise technological projects.*
 
 *While normative methods are designed to define and police boundaries, configuration as a method assemblage aims to articulate method in a way that opens received and/or congealed relations to being re-enacted differently (see Law, 2004: 84)."*
-
 
 (Suchman, Lucy. *In Lury, C. and Wakeford, N. eds. (2012) Inventive methods: The happening of the social.* London: Routledge. pp. 62-74.)
 
