@@ -8,19 +8,6 @@ Lab-from-a-chip is a family friendly DIY intervention in Lab On A Chip technolog
 
 *"A* ***lab-on-a-chip*** *is a device that integrates one or several laboratory functions on a single integrated circuit of only millimeters to a few square centimeters to achieve automation and high-throughput screening."* <sub>via [Wikipedia](https://en.wikipedia.org/wiki/Lab-on-a-chip)
 
-## Making Lab On A Chip DIY
-
-<img src="images/workshopmontage.jpg" width="400">
-
-
-I'm interested in what happens when you take a system from science and engineering, what Science and Technology Studies (STS) calls 'technoscience' and try to make it something that can be done outside of the "secluded research" (Callon et al. 2009. *Acting in an uncertain world : an essay on technical democracy* USA: MIT Press.)of the science lab; how you could turn it into a DIY kit, what that entails and what that might mean.
-
-It follows some [diverse approaches to DIY Microfluidics like this](http://fab.cba.mit.edu/classes/S62.12/people/tsai.liz/index.html), then follows the novel practices of people at BLS.
-
-I then take all kinds of ideas from STS and feminist technoscience to make a [Theoretical Repertoire](#theoretical-repertoire-book-package) to make a workshop exploring model organisms in DIY environments made from discarded domestic electronics and media.
-
-Jump to [Getting Started](#getting-started) to get going
-
 ## Features
 
  * Hard silicon timer chips, the logical oscillating workhorses that make the world tick!
@@ -33,6 +20,20 @@ Jump to [Getting Started](#getting-started) to get going
  * Feminist technoscience!
  * Critters that move like animals but eat like plants!
  * Making moulds from the capitalist ruins!
+
+
+## Making Lab On A Chip DIY
+
+<img src="images/workshopmontage.jpg" width="400">
+
+
+I'm interested in what happens when you take a system from science and engineering, what Science and Technology Studies (STS) calls 'technoscience' and try to make it something that can be done outside of the "secluded research" (Callon et al. 2009. *Acting in an uncertain world : an essay on technical democracy* USA: MIT Press.)of the science lab; how you could turn it into a DIY kit, what that entails and what that might mean.
+
+It follows some [diverse approaches to DIY Microfluidics like this](http://fab.cba.mit.edu/classes/S62.12/people/tsai.liz/index.html), then follows the novel practices of people at BLS.
+
+I then take all kinds of ideas from STS and feminist technoscience to make a [Theoretical Repertoire](#theoretical-repertoire-book-package) to make a workshop exploring model organisms in DIY environments made from discarded domestic electronics and media.
+
+Jump to [Getting Started](#getting-started) to get going
 
 ## Bridging The World-To-Chip Barrier
 
