@@ -27,7 +27,7 @@ Lab-from-a-chip is a family friendly DIY intervention in Lab On A Chip technolog
 <img src="images/workshopmontage.jpg" width="400">
 
 
-I'm interested in what happens when you take a system from science and engineering, what Science and Technology Studies (STS) calls 'technoscience' and try to make it something that can be done outside of the "secluded research" (Callon et al. 2009. *Acting in an uncertain world : an essay on technical democracy* USA: MIT Press.)of the science lab; how you could turn it into a DIY kit, what that entails and what that might mean.
+I'm interested in what happens when you take a system from science and engineering, what Science and Technology Studies (STS) calls 'technoscience' and try to make it something that can be done outside of the "secluded research" (Callon et al. 2009. *Acting in an uncertain world : an essay on technical democracy* USA: MIT Press) of the science lab; how you could turn it into a DIY kit, what that entails and what that might mean.
 
 It follows some [diverse approaches to DIY Microfluidics like this](http://fab.cba.mit.edu/classes/S62.12/people/tsai.liz/index.html), then follows the novel practices of people at BLS.
 
@@ -149,7 +149,7 @@ Refer to **Phone View** in **VIEWING** section overleaf.
 
 ## Theoretical Repertoire :book: :package:
 
-<img src="images/boromit_meme_ready.jpg" width="400">
+<img src="images/boromir_meme_ready.jpg" width="400">
 
 In my research on kit culture, I try to build up a theoretical repertoire for tuning into what might be going on across various forms of biological knowledge production, then use this repertoire to make kits, a kind of `critical-making`. 
 
