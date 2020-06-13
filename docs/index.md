@@ -1,7 +1,7 @@
 
 # Lab-From-A-Chip
 
-![Kit Component Net](images/package_front_small.jpg)
+![Kit Component Net](../images/package_front_small.jpg)
 
 Lab-from-a-chip is a DIY intervention in Lab On A Chip
 technology using model organisms inspired by Science and Technology
