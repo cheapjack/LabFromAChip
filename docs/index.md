@@ -1,6 +1,3 @@
-
-# Lab-From-A-Chip
-
 <img src="images/package_front_small.jpg" width="600">
 
 Lab-from-a-chip is a DIY intervention in Lab On A Chip
