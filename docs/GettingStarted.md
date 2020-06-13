@@ -13,7 +13,7 @@
 -   Cover the `555` timer with the deeper side of the dish to avoid
     dust.
 
-### Quick Foldscope Assembly :microscope:
+### Quick Foldscope Assembly 🔬
 
 We are going to do a quick build of a
 [Foldscope](https://www.foldscope.com/) Prakesh Labs ingenious bit of
@@ -31,7 +31,7 @@ microengineering for frugal science.
     6.  Insert ramp into stage
     7.  Fold the bottom of the Lens stage.
 
-#### Connect to phone. :phone: :camera:
+#### Connect to phone. 🤳 📷
 
 Refer to **Phone View** in **VIEWING** section overleaf.
 
@@ -48,7 +48,7 @@ Refer to **Phone View** in **VIEWING** section overleaf.
 3.  Take the other coupler and place it silver side down over the lens.
     Keep the lens central to the couplers hole.
 
-#### Slide prep :bug:
+#### Slide prep 🐛 
 
 ![](images/12.jpg)
 
@@ -73,9 +73,11 @@ Refer to **Phone View** in **VIEWING** section overleaf.
 8.  Press the button to eject the algae suspension, it should find it's
     way under the PDMS slab by capillary action
 9.  Peel off the clear sticky cover slip and place over the slab. If
-    your slab is too thick, dont bother. ![](images/15.jpg)
+    your slab is too thick, dont bother. 
 
-#### Viewing :eyes:
+![](images/15.jpg)
+
+#### Viewing 👀
 
 ![](images/13.jpg)
 

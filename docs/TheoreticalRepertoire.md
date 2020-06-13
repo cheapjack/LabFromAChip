@@ -1,6 +1,7 @@
 
-Theoretical Repertoire :book: :package:
----------------------------------------
+## Theoretical Repertoire 📚 📦
+
+See [our theory presentation here](art-activism-sts.glitch.me/)
 
 ![](images/boromir_meme_ready.jpg){width="400"}
 
