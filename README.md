@@ -14,8 +14,7 @@ to a few square centimeters to achieve automation and high-throughput
 screening.\"* via
 [Wikipedia](https://en.wikipedia.org/wiki/Lab-on-a-chip)
 
-Features
---------
+## Features
 
 -   Hard silicon timer chips, the logical oscillating workhorses that
     make the world tick!
@@ -51,14 +50,15 @@ Jump to [Getting Started](GettingStarted.md) to get going
 
 ## Background: Bridging The World-To-Chip Barrier
 
-![](images/workshopmontage.jpg){width="400"}
+![Workshop at Liverpool John Moores University with Dr Rod Dillon, 2019](images/workshopmontage.jpg){width="400"}
 
-We're interested in what happens when you take a system from science and engineering, what Science and Technology Studies (STS) calls 'technoscience' and try to make it something that can be done outside of the "secluded research" (Callon et al. 2009. *Acting in an uncertain world : an essay on technical democracy* USA: MIT Press) of the science lab; how you could turn it into a DIY kit, what that entails and what that might mean.
+This is part of Artist Ross Dalziel's art-science PhD embedded in the Division of Biomedical and Life Sciences at Lancaster University and makerspace [DoESLiverpool](https://doesliverpool.com), exploring critical making in kit cultures, *Critical Kits*. We're interested in what happens when you take a system from science and engineering, what Science and Technology Studies (STS) calls 'technoscience' and try to make it something that can be done outside of the "secluded research" (Callon et al. 2009. *Acting in an uncertain world : an essay on technical democracy* USA: MIT Press) of the science lab; how you could turn it into a DIY kit, what that entails and what that might mean.
   
-It follows some [diverse approaches to DIY Microfluidics like this](http://fab.cba.mit.edu/classes/S62.12/people/tsai.liz/index.html), then follows the novel practices of people at BLS.
+We followed some diverse approaches to [DIY Microfluidics like this](http://fab.cba.mit.edu/classes/S62.12/people/tsai.liz/index.html), in our [Makerspace]() then began following the practices of microbiologist, researcher, biotechnologist and engineer [Alexandre Benedetto](https://www.lancaster.ac.uk/health-and-medicine/about-us/people/alexandre-benedetto).
 
-We take ideas from STS and feminist technoscience to make a [Theoretical Repertoire](#theoretical-repertoire-book-package) to make a workshop exploring model organisms in DIY environments made from discarded domestic electronics and media.
-
+Alex and his colleagues use the technique to observe the [organismal death process in *C elegans* model organisms](https://linkinghub.elsevier.com/retrieve/pii/S2211124718302316). There's an interesting story to how these worms became such important non-humans [here](https://bigpictureeducation.com/model-organisms-genetics-research-nematode-worm).  Alex and his colleagues developed a mehtod using the grooves of old vinyl records as moulds for PDMS silicon which centrifuged and de-gassed, provides optically clear environments for securing nematodes for the observation of gene expression and other processes.
+ 
+We take ideas from STS and feminist technoscience to make a [Theoretical Repertoire](TheoreticalRepertoire.md) and develop a kit and workshop exploring model organisms in DIY environments made from discarded domestic electronics and media.
 
 *"Microfluidic devices are an enabling technology for many labs,
 facilitating a wide range of applications spanning high-throughput
@@ -72,11 +72,7 @@ autosampler and fraction collector for automated microfluidic
 input--output* London Royal Society of Chemistry)
 
 This world and it's related fields of engineering of pico, nano and microfluidics can be hard to get into. Engineering structures only a few tens of microns high are hard and expensive to make. Our project tries to take a playful approach to fostering agency and embodied thinking about this technology and bringing silicon and big living collaborating proteins (us humans) together.
-
-Inspired and re-empracticed from microbiologist researcher, biotechnologist and engineer [Alexandre Benedetto](https://www.lancaster.ac.uk/health-and-medicine/about-us/people/alexandre-benedetto) and in turn inspired by an article in [The Worm Breeders Gazette](http://wbg.wormbook.org/2017/07/18/immobilizing-nematodes-for-live-imaging-using-an-agarose-pad-generated-with-a-vinyl-record/)
-
-Alex and his research students research the death process in *C elegans* model organisms. There's an interesting story to how these worms became such important non-humans [here](https://bigpictureeducation.com/model-organisms-genetics-research-nematode-worm).  Ales and his colleagues developed a mehtod using the grooves of old vinyl records as moulds for PDMS silicon which centrifuged and de-gassed provides optically clear environments for securing nematodes for the observation of gene expression.
-  
+ 
 We realised we are already surrounded by exotic objects that are made of very small engineered structures: the tiny logos etched onto integrated circuits in our phones or humble doorbell, or the tiny grooves of a vinyl record. All you need is some Polydimethylsiloxane (PDMS) a *silicon polymer* that is inert, non-toxic and optically clear to use these exotic objects to manipulate living organisms. What these chips really depend on is microfluidics, a development from electronic circuits but with things much bigger than electrons, the big molecules of chemistry and biology.
   
 *"Microfluidic devices are powerful tools for biology, chemistry, and
@@ -88,13 +84,7 @@ sample requirements. In reality, the extensive infrastructure required
 to convey reagents, samples, and analytes into and out of devices often
 renders a 'lab-on-a-chip' more of a 'chip-in-a-lab"* (Ibid.)
 
-Making this technology involves dust free environments, vacuum systems
-and expensive photolithography to get it done 'right'. But this usually
-does not stop the DIY 'maker' impulse. Even [Scanning Tunneling
-Microscopes (STM)](http://dberard.com/home-buit-stm) have gone DIY.
-There is alot of open source work going on in the microfluidic
-community, not necessarily DIY, but I'm exploring how makerspaces can
-engage with it.
+Making this technology involves dust free environments, vacuum systems and expensive photolithography to get it done 'right'. But this usually does not stop the DIY 'maker' impulse. Even [Scanning Tunneling Microscopes (STM)](http://dberard.com/home-buit-stm) have gone DIY.  There is alot of open source work going on in the microfluidic community, not necessarily DIY, but I'm exploring how makerspaces can engage with it.
 
 In experimenting with DIY microfluidics I hope to
 
@@ -104,8 +94,6 @@ In experimenting with DIY microfluidics I hope to
     actors can explore the field
 -   See what is going on in the technology
 
-Make a *"frame for recovering the heterogeneous relations that
-technologies fold together...open(s) received and/or congealed relations
-to be(ing) re-enacted differently"* as Suchman says.
+Make a *"frame for recovering the heterogeneous relations that technologies fold together...to be...re-enacted differently"* (Lucy Suchman, In Lury, C. and Wakeford, N. eds. (2012) Inventive methods: The happening of the social. London: Routledge. pp. 62-74.)
 
 
