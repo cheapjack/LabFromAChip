@@ -1,8 +1,7 @@
 
 # Lab-From-A-Chip
 
-![](images/ESP_Euglena.jpg){width="400"} ![](images/3.jpg){width="400"}
-![](images/package_front_small.jpg){width="400"}
+![Kit Component Net](images/package_front_small.jpg)
 
 Lab-from-a-chip is a DIY intervention in Lab On A Chip
 technology using model organisms inspired by Science and Technology
