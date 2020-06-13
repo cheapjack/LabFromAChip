@@ -1,7 +1,7 @@
 
 # Lab-From-A-Chip
 
-![Kit Component Net](images/package_front_small.jpg)
+<img src="images/package_front_small.jpg" width="600">
 
 Lab-from-a-chip is a DIY intervention in Lab On A Chip
 technology using model organisms inspired by Science and Technology
@@ -49,7 +49,7 @@ Jump to [Getting Started](GettingStarted.md) to get going
 
 ## Background: Bridging The World-To-Chip Barrier
 
-![Workshop at Liverpool John Moores University with Dr Rod Dillon, 2019](images/workshopmontage.jpg){width="400"}
+<img alt="Workshop at Liverpool John Moores University with Dr Rod Dillon, 2019" src="images/workshopmontage.jpg" width="400">
 
 This is part of Artist Ross Dalziel's art-science PhD embedded in the Division of Biomedical and Life Sciences at Lancaster University and makerspace [DoESLiverpool](https://doesliverpool.com), exploring critical making in kit cultures, *Critical Kits*. We're interested in what happens when you take a system from science and engineering, what Science and Technology Studies (STS) calls 'technoscience' and try to make it something that can be done outside of the "secluded research" (Callon et al. 2009. *Acting in an uncertain world : an essay on technical democracy* USA: MIT Press) of the science lab; how you could turn it into a DIY kit, what that entails and what that might mean.
   
