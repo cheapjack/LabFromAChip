@@ -42,7 +42,7 @@ screening.\"* via
 
 ## Getting Started
 
-Jump to [Getting Started](GettingStarted.md) to get going
+Jump to [Getting Started](./GettingStarted.md) to get going
 
 ## Background: Bridging The World-To-Chip Barrier
 
@@ -54,7 +54,7 @@ We followed some diverse approaches to [DIY Microfluidics like this](http://fab.
 
 Alex and his colleagues use the technique to observe the [organismal death process in *C elegans* model organisms](https://linkinghub.elsevier.com/retrieve/pii/S2211124718302316). There's an interesting story to how these worms became such important non-humans [here](https://bigpictureeducation.com/model-organisms-genetics-research-nematode-worm).  Alex and his colleagues developed a mehtod using the grooves of old vinyl records as moulds for PDMS silicon which centrifuged and de-gassed, provides optically clear environments for securing nematodes for the observation of gene expression and other processes.
  
-We take ideas from STS and feminist technoscience to make a [Theoretical Repertoire](TheoreticalRepertoire.md) and develop a kit and workshop exploring model organisms in DIY environments made from discarded domestic electronics and media.
+We take ideas from STS and feminist technoscience to make a [Theoretical Repertoire](./TheoreticalRepertoire.md) and develop a kit and workshop exploring model organisms in DIY environments made from discarded domestic electronics and media.
 
 *"Microfluidic devices are an enabling technology for many labs,
 facilitating a wide range of applications spanning high-throughput
