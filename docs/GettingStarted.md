@@ -25,24 +25,24 @@ microengineering for frugal science.
 
 ### Slide prep 🐛 
 
-<img src="bookletimages/13.png" width="400">
+<img src="bookletimages/13.png" height="200">
 
 Inject equal amounts (0.5ml) of silicon from syringe A and fixer from syringe B into the 'floor' your mini petri dish (it's the smaller diameter part)
 
-<img src="bookletimages/14.png" width="400">
-<img src="bookletimages/15.png" width="400">
+<img src="bookletimages/14.png" height="200">
+<img src="bookletimages/15.png" height="200">
 
 Mix well and add lid
 
-<img src="bookletimages/16.png" width="400">
+<img src="bookletimages/16.png" height="200">
 
 Carefully spin with your DIY paperfuge! 
 
-<img src="bookletimages/17.png" width="400">
+<img src="bookletimages/17.png" height="200">
 
 Another tricky bit! Use the micro disposable pipette to inject a drop of algae suspenstion into the side of the impressed silicon. Capilliary action should pull the liquid into the tiny impressions of the chip surface markings or the vinyl channels
 
-<img src="bookletimages/18.png" width="400">
+<img src="bookletimages/18.png" height="200">
 
 Insert your prepared slide here (be careful slotting it in not to push your coverslip away)
 
@@ -75,38 +75,38 @@ Finally if you'd like to take part in the CriticalKits research project please r
 
 ### Inventory 
 
-<img src="bookletimages/1.png" width="400">
+<img src="bookletimages/1.png" height="200">
 
 Prepared & labelled syringes filled with PDMS (A) & hardener (B). PDMS is a non-volatile silicon and safe to handle, but not ingest. We advise taking care to wash your hands thoroughly after use and store them in the already open plastic sleeves. Unmixed they store for up to a year. Be careful not to cross contaminate the A & B components or they will harden in storage. 
 
-<img src="bookletimages/6.png" width="400">
+<img src="bookletimages/6.png" height="200">
 
 
 555 Timer chip. Common chip in maker projects. See https://github.com/DoESLiverpool/WearableTechBadgeWorkshop/blob/master/555Tutorials.md for what you can make with timers. 
 
-<img src="bookletimages/2.png" width="400">
+<img src="bookletimages/2.png" height="200">
 
 Micro-petri-dish with lid. Mix PDMS together and make impressions with chip surfaces. You could use anything you think might make tiny  impressions in the surface of your PDMS mould. 
 
-<img src="bookletimages/7.png" width="400">
+<img src="bookletimages/7.png" height="200">
 
 
 1.5ml Eppendorf with safe-lid containing an algae suspension of Euglena gracilis. You can see Euglena [in action here](https://youtu.be/ghMFiTQJU-M)  
 
-<img src="bookletimages/8.png" width="400">
+<img src="bookletimages/8.png" height="200">
 
 1.3ml Disposable micro pipette
 
-<img src="bookletimages/9.png" width="400">
+<img src="bookletimages/9.png" height="200">
 
 Blank glass Microscope slide with cover slips for your own PDMS mould. Take care with the glass cover slips
 
-<img src="bookletimages/11.png" width="400">
+<img src="bookletimages/11.png" height="200">
 
 
 Plastic tweezers for removing your set PDMS impressions
 
-<img src="bookletimages/12.png" width="400">
+<img src="bookletimages/12.png" height="200">
 
 
 Standard Foldscope classroom kit, instructions, sticker set, lens cleaning q-tip, lighting stage and lens/phone assembly
