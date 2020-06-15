@@ -1,17 +1,8 @@
 ## Getting started
 
-### Make A PDMS Mould
+Your kit should include [this inventory](#inventory) You should have had time to play with your foldscope and get used to capturing images on your phone. Here's a fast and dirty assembly if you're in a rush to get going. Practice capturing images before you make your first moulds though!
 
--   Get a small blob of `A` PDMS in cover of the petri dish (the shallow
-    side)
--   Get a small blob of `B` PDMS in cover of the petri dish
--   Mix together with edge of a paper slide from the foldscope net.
--   Dip the `555` timer chip gently top first into the mix. Remove
-    excess.
--   Brush some PDMS mix onto the vinyl record
--   Leave to dry
--   Cover the `555` timer with the deeper side of the dish to avoid
-    dust.
+We've included a random pre-prepared slide donated from a microscope enthusiast from the Wirral in Merseyside.
 
 ### Quick Foldscope Assembly 🔬
 
@@ -31,74 +22,95 @@ microengineering for frugal science.
     6.  Insert ramp into stage
     7.  Fold the bottom of the Lens stage.
 
-#### Connect to phone. 🤳 📷
+
+### Slide prep 🐛 
+
+<img src="bookletimages/13.png" width="400">
+
+Inject equal amounts (0.5ml) of silicon from syringe A and fixer from syringe B into the 'floor' your mini petri dish (it's the smaller diameter part)
+
+<img src="bookletimages/14.png" width="400">
+<img src="bookletimages/15.png" width="400">
+
+Mix well and add lid
+
+<img src="bookletimages/16.png" width="400">
+
+Carefully spin with your DIY paperfuge! 
+
+<img src="bookletimages/17.png" width="400">
+
+Another tricky bit! Use the micro disposable pipette to inject a drop of algae suspenstion into the side of the impressed silicon. Capilliary action should pull the liquid into the tiny impressions of the chip surface markings or the vinyl channels
+
+<img src="bookletimages/18.png" width="400">
+
+Insert your prepared slide here (be careful slotting it in not to push your coverslip away)
+
+
+That's it, setup your phone below and see if your algae companions can navigate your microfluidic landscape
+
+### Connect to phone. 🤳 📷
 
 Refer to **Phone View** in **VIEWING** section overleaf.
 
 1.  Take the round white double sided peel off sticker and stick it
     carefully over your phone camera lens, make sure you dont get the
-    glue on the lens. It comes off with water if you do :smile:
+    glue on the lens. It comes off with water if you do 😀
 
-![](images/8.jpg)
+<img src="images/8.jpg" alt="White phone stickers" height="400">
 
 2.  Remove the white cover. Now theres a sticky side facing up.
 
-![](images/16.jpg)
+<img src="images/16.jpg" alt="Coupler silver side down" height="400">
 
 3.  Take the other coupler and place it silver side down over the lens.
     Keep the lens central to the couplers hole.
 
-#### Slide prep 🐛 
+### Share Your Experience
 
-![](images/12.jpg)
+Please post your images to twitter and copy @CriticalKits and @PrakashLab or Instagram @cheapjack @foldscope
 
-1.  Carefully with tweezers peel off the cured PDMS from your `555`
-    timer chip in the petri-dish and place it so where it came into
-    contact with the surface is flat on the surface of the slide, in the
-    centre of the glass with the slide logo ledgible
+Finally if you'd like to take part in the CriticalKits research project please read and complete (don't forget to sign digitally! use an image or insert the text in italic) the [Participant Information Sheet (PIS)](PIS.docx)
 
-![](images/2.jpg)
 
-2.  Take a micropipette and place the long tip from your kit on the end.
-3.  Press and hold the button/plunger.
+### Inventory 
 
-![](images/4.jpg)
+<img src="bookletimages/1.png" width="400">
 
-4.  Get a friend to open and hold the 1.5ml Eppendorf tube with the
-    algae suspension inside.
-5.  Insert tip into the Eppendorf tube
-6.  Release the plunger, it will have captured the number of micro
-    litres indicated on the pipette of algae suspension
-7.  place the tip by the side of the tiny section of silicon.
-8.  Press the button to eject the algae suspension, it should find it's
-    way under the PDMS slab by capillary action
-9.  Peel off the clear sticky cover slip and place over the slab. If
-    your slab is too thick, dont bother. 
+Prepared & labelled syringes filled with PDMS (A) & hardener (B). PDMS is a non-volatile silicon and safe to handle, but not ingest. We advise taking care to wash your hands thoroughly after use and store them in the already open plastic sleeves. Unmixed they store for up to a year. Be careful not to cross contaminate the A & B components or they will harden in storage. 
 
-![](images/15.jpg)
+<img src="bookletimages/6.png" width="400">
 
-#### Viewing 👀
 
-![](images/13.jpg)
+555 Timer chip. Common chip in maker projects. See https://github.com/DoESLiverpool/WearableTechBadgeWorkshop/blob/master/555Tutorials.md for what you can make with timers. 
 
-1.  Open & hold the rear flap, so the yellow side of the stage faces up
-2.  Take your prepared slide and place cover slip or slab down over the
-    tiny bubble of the ball lens.
+<img src="bookletimages/2.png" width="400">
 
-![](images/14.jpg)
+Micro-petri-dish with lid. Mix PDMS together and make impressions with chip surfaces. You could use anything you think might make tiny  impressions in the surface of your PDMS mould. 
 
-3.  Let the bottom lens stage flap magnetically snap to hold the slide
-    in place.
-4.  Carefully turn over keeping slide in place. Use stickers if it
-    slips. The blue side should face up
-5.  Slide the focus ramp out so the `Z` mark on the stage lines up with
-    the `0` on the focus ramp rule.
-6.  Place on the desk with silver of coupler facing up
-7.  Turn on your phone camera and slowly approach the coupler, the
-    magnetic force whould make the stage jump up onto your phone.
-8.  Watch and explore! Check your mould is in place, experiment with the
-    focus and move around toward the light. Face a window or light or
-    use the LED & Battery
+<img src="bookletimages/7.png" width="400">
 
-![](images/19.jpg)
 
+1.5ml Eppendorf with safe-lid containing an algae suspension of Euglena gracilis. You can see Euglena [in action here](https://youtu.be/ghMFiTQJU-M)  
+
+<img src="bookletimages/8.png" width="400">
+
+1.3ml Disposable micro pipette
+
+<img src="bookletimages/9.png" width="400">
+
+Blank glass Microscope slide with cover slips for your own PDMS mould. Take care with the glass cover slips
+
+<img src="bookletimages/11.png" width="400">
+
+
+Plastic tweezers for removing your set PDMS impressions
+
+<img src="bookletimages/12.png" width="400">
+
+
+Standard Foldscope classroom kit, instructions, sticker set, lens cleaning q-tip, lighting stage and lens/phone assembly
+
+Random pre-prepared slide
+
+Vinyl record Fragment. Some of you may not have a record collection and listen on big data infrastuctures like Spotify or YouTube or maybe if you care about artists getting paid, Bandcamp. You can't really get impressions from these sources although if you could access their server racks in the correct data centre you could find a hard drive that likely has some micro-engineered structures but you'd get in trouble!
