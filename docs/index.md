@@ -28,17 +28,21 @@ screening.\"* via
 
 ## Included
 
- * [Foldscope](https://www.foldscope.com/) or 10x mag & up microscope
- * [PolyDiMethylSiloxane](https://en.wikipedia.org/wiki/Polydimethylsiloxane) (PDMS) Silicon
- * 2 Syringes
- * Mini Petri Dish
- * Glass or plastic Microscope slide
- * Glass coverslip
- * Instruction Booklet
- * Paperfuge Kit
- * Tweezers
- * Surplus electronics
- * 7"/12" vinyl record fragment
+Item|Number|Source
+---|---|---
+Foldscope|1|[Foldscope Shop](https://www.foldscope.com/)
+[PolyDiMethylSiloxane](https://en.wikipedia.org/wiki/Polydimethylsiloxane)(PDMS) Silicon in 2 syringes `A` & `B`|1|[EBay](https://en.wikipedia.org/wiki/Polydimethylsiloxane)
+Syringes|2|Shop
+Mini Petri Dish|1|Shop
+Glass Microscope slide|1|EBay
+Glass coverslips|3|Ebay
+Pre-prepared glass microscope slide|1|DoESLiverpool community
+Instruction Booklet|1|cheapjack
+Paperfuge Kit|1|cheapjack
+Twine|1|cheapjack
+Tweezers|1|EBay
+Surplus electronic chip|1|DoESLiverpool
+7"/12" vinyl record fragment|1|A flat in the Holly Street Estate, Hackney 1996
 
 ## Getting Started
 
