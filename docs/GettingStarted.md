@@ -47,7 +47,15 @@ Another tricky bit! Use the micro disposable pipette to inject a drop of algae s
 Insert your prepared slide here (be careful slotting it in not to push your coverslip away)
 
 
-That's it, setup your phone below and see if your algae companions can navigate your microfluidic landscape
+That's it! You're ready! Now setup your phone with the Foldscope and see if our algal friends have found their way into the microfluidic channels. We've found that the vinyl record is the most rewarding, as you really get to see our *Euglena gracilis* moving along the grooves and you could try imagine how slow the music might sound like at their speed. With your phone setup you could try shining the LED included and see how they respond.
+
+These organisms are mixotrophic in that they 'eat' proteins and plant matter but also photosynthesise, so like plants 'make' food from sunlight. They are like plants but also behave like animals.
+
+Have a think what other ordinary stuff we have in our homes and workplaces that might have tiny spaces the size of record grooves or silicon chip logos? What about textiles? The surface of your phone or pair of running shoes/trainers/sneakers? An old pair of headphones? The surface of some wood or steel? Once you put yourself in the Algae's position the human engineered world becomes like a whole world. 
+
+Please post your images to twitter and copy @CriticalKits and @PrakashLab or Instagram @cheapjack @foldscope
+
+Finally if you'd like to take part in the CriticalKits research project please read and complete (don't forget to sign digitally! use an image or insert the text in italic) the [Participant Information Sheet (PIS)](PIS.docx)
 
 ### Connect to phone. 🤳 📷
 
@@ -65,6 +73,16 @@ Refer to **Phone View** in **VIEWING** section overleaf.
 
 3.  Take the other coupler and place it silver side down over the lens.
     Keep the lens central to the couplers hole.
+
+If you setup near a window or open laptop this serves as a good overall light source but experiment with the included LED & battery, known in Maker circles as an LED throwie
+
+#### LED throwie
+
+<img src="images/19.png" height="200">
+
+We've included an LED and battery which you can use for extra lighting with the help of your tape. You can also use them as an [LED Throwie](https://makezine.com/projects/led-throwies/) for guerilla LED graffitti on the macroscale.
+
+*Euglena gracilis* are popular in the [field of Biotic games]() Use your LED to see if you can make the algae move in the direction you wantto see if you can make the algae move in the direction you want. If you look carefully you'll see their tiny red spot which is sensitive to light, they'll make their way toward the light as for them (like us) it's a source of food and energy  
 
 ### Share Your Experience
 
@@ -93,6 +111,10 @@ Micro-petri-dish with lid. Mix PDMS together and make impressions with chip surf
 
 1.5ml Eppendorf with safe-lid containing an algae suspension of Euglena gracilis. You can see Euglena [in action here](https://youtu.be/ghMFiTQJU-M)  
 
+<img src="bookletimages/VinylFragment.png" height="200">
+
+Vinyl fragment. Some of you may not remember, but at the dawn of pop culture and capitalism music was distributed widely on vinyl discs as micrometre scale grooves that could be amplified and played back
+
 <img src="bookletimages/8.png" height="200">
 
 1.3ml Disposable micro pipette
@@ -111,6 +133,21 @@ Plastic tweezers for removing your set PDMS impressions
 
 Standard Foldscope classroom kit, instructions, sticker set, lens cleaning q-tip, lighting stage and lens/phone assembly
 
+
+<img src="" alt="Picture of prepared slide" height="200">
+
 Random pre-prepared slide
 
+<img src="bookletimages/vinylFragment.png" height="200">
+
 Vinyl record Fragment. Some of you may not have a record collection and listen on big data infrastuctures like Spotify or YouTube or maybe if you care about artists getting paid, Bandcamp. You can't really get impressions from these sources although if you could access their server racks in the correct data centre you could find a hard drive that likely has some micro-engineered structures but you'd get in trouble!
+
+
+<img src="images/18.png" height="200">
+<img src="images/19.png" height="200">
+
+LED & Battery. For lighting up your *Euglena gracilis* Watch 'em go!
+
+<img src="" alt="Picture of micro sellotape" height="200">
+
+Easy tear sellotape for fixing your slide to the 'scope and securing your petri dish when using the paperfuge.
