@@ -55,7 +55,7 @@ This is part of Artist Ross Dalziel's art-science PhD embedded in the Division o
   
 We followed some diverse approaches to [DIY Microfluidics like this](http://fab.cba.mit.edu/classes/S62.12/people/tsai.liz/index.html), in our [Makerspace](https://github.com/DoESLiverpool/Wearables/wiki/Bio-Blog-2019#algae-microfluidics-doesliverpool) then began following the practices of microbiologist, researcher, biotechnologist and engineer [Alexandre Benedetto](https://www.lancaster.ac.uk/health-and-medicine/about-us/people/alexandre-benedetto).
 
-Alex and his colleagues use the technique to observe the [organismal death process in *C elegans* model organisms](https://linkinghub.elsevier.com/retrieve/pii/S2211124718302316).Alex and his colleagues developed a mehtod using the grooves of old vinyl records as moulds for PDMS silicon which centrifuged and de-gassed, provides optically clear environments for securing nematodes for the observation of gene expression and other processes.
+Alex and his colleagues use the technique to observe the [organismal death process in *C elegans* model organisms](https://linkinghub.elsevier.com/retrieve/pii/S2211124718302316).Alex and his colleagues developed a method using the grooves of old vinyl records as moulds for PDMS silicon which centrifuged and de-gassed, provides optically clear environments for securing nematodes for the observation of gene expression and other processes.
  
 We take ideas from STS and feminist technoscience to make a [Theoretical Repertoire](TheoreticalRepertoire.md) and develop a kit and workshop exploring model organisms in DIY environments made from discarded domestic electronics and media.
 
