@@ -76,6 +76,10 @@ Refer to **Phone View** in **VIEWING** section overleaf.
 
 If you setup near a window or open laptop this serves as a good overall light source but experiment with the included LED & battery, known in Maker circles as an LED throwie
 
+# 🎥
+
+There's a [handy video guide here](https://www.youtube.com/watch?v=0iRCceGCGus&feature=youtu.be&t=81)
+
 #### LED throwie
 
 <img src="images/19.png" height="200">
