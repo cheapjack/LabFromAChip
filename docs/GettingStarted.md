@@ -36,7 +36,7 @@ Mix well and add lid
 
 <img src="bookletimages/16.png" height="200">
 
-Carefully spin with your DIY paperfuge! 
+Carefully spin with your DIY paperfuge! Have a look at this [DIY Whirligig Toy tutorial](https://www.todaysparent.com/family/crafts/how-to-make-an-old-school-whirligig-fidget-toy/) to get the idea of how to use it and follow the instructions on the paperfuge cut out. 
 
 <img src="bookletimages/17.png" height="200">
 
@@ -82,7 +82,7 @@ There's a [handy video guide here](https://www.youtube.com/watch?v=0iRCceGCGus&f
 
 #### LED throwie
 
-<img src="images/19.png" height="200">
+<img src="images/19.jpg" height="200">
 
 We've included an LED and battery which you can use for extra lighting with the help of your tape. You can also use them as an [LED Throwie](https://makezine.com/projects/led-throwies/) for guerilla LED graffitti on the macroscale.
 
