@@ -138,20 +138,20 @@ Plastic tweezers for removing your set PDMS impressions
 Standard Foldscope classroom kit, instructions, sticker set, lens cleaning q-tip, lighting stage and lens/phone assembly
 
 
-<img src="" alt="Picture of prepared slide" height="200">
+<img src="bookletletimages/10.png" alt="Picture of prepared slide" height="200">
 
-Random pre-prepared slide
+Pre-prepared PDMS with coverslip slide made from old vinyl record. This is to help you get started but you can make your own by 'painting' mixed PDMS onto your own records or other surfaces
 
-<img src="bookletimages/vinylFragment.png" height="200">
+**NOTE** This is only in later complete kits
+
+<img src="bookletimages/VinylFragment.png" height="200">
 
 Vinyl record Fragment. Some of you may not have a record collection and listen on big data infrastuctures like Spotify or YouTube or maybe if you care about artists getting paid, Bandcamp. You can't really get impressions from these sources although if you could access their server racks in the correct data centre you could find a hard drive that likely has some micro-engineered structures but you'd get in trouble!
 
-
-<img src="images/18.png" height="200">
-<img src="images/19.png" height="200">
+<img src="images/18.jpg" height="200">
 
 LED & Battery. For lighting up your *Euglena gracilis* Watch 'em go!
 
-<img src="" alt="Picture of micro sellotape" height="200">
+<img src="images/tape.jpg" alt="Picture of micro sellotape" height="200">
 
 Easy tear sellotape for fixing your slide to the 'scope and securing your petri dish when using the paperfuge.
