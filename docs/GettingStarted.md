@@ -1,5 +1,3 @@
-## Getting started
-
 
 <img src="images/LabPacking1.jpg">
 
