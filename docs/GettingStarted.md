@@ -1,5 +1,8 @@
 ## Getting started
 
+
+<img src="images/LabPacking1.jpg" height="700">
+
 Your kit should include [this inventory](#inventory) You should have had time to play with your foldscope and get used to capturing images on your phone. Here's a fast and dirty assembly if you're in a rush to get going. Practice capturing images before you make your first moulds though!
 
 We've included a random pre-prepared slide donated from a microscope enthusiast from the Wirral in Merseyside.
@@ -138,7 +141,7 @@ Plastic tweezers for removing your set PDMS impressions
 Standard Foldscope classroom kit, instructions, sticker set, lens cleaning q-tip, lighting stage and lens/phone assembly
 
 
-<img src="bookletletimages/10.png" alt="Picture of prepared slide" height="200">
+<img src="bookletimages/10.png" alt="Picture of prepared slide" height="200">
 
 Pre-prepared PDMS with coverslip slide made from old vinyl record. This is to help you get started but you can make your own by 'painting' mixed PDMS onto your own records or other surfaces
 
