@@ -1,7 +1,7 @@
 ## Getting started
 
 
-<img src="images/LabPacking1.jpg" height="700">
+<img src="images/LabPacking1.jpg">
 
 Your kit should include [this inventory](#inventory) You should have had time to play with your foldscope and get used to capturing images on your phone. Here's a fast and dirty assembly if you're in a rush to get going. Practice capturing images before you make your first moulds though!
 
