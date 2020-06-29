@@ -94,20 +94,21 @@ Finally if you'd like to take part in the CriticalKits research project please r
 
 ### Connect to phone. 🤳 📷
 
-Refer to **Phone View** in **VIEWING** section overleaf.
-
-1.  Take the round white double sided peel off sticker and stick it
-    carefully over your phone camera lens, make sure you dont get the
-    glue on the lens. It comes off with water if you do 😀
-
+Refer to **Phone View** in the **VIEWING** section of the main Foldscope instruction booklet.
+ 
 <img src="images/8.jpg" alt="White phone stickers" height="400">
 
-2.  Remove the white cover. Now theres a sticky side facing up.
+1.  Peel off a round double sided sticker with white ring cover and stick it carefully over your phone camera lens, make sure you dont get the glue on the lens. It comes off with water if you do 😀. Rub it in place firmly with cover on so it bonds firmly to the phone surface around the lens. Peel off the white cover. Now theres a sticky side facing up with the camera aperture in the centre.
 
 <img src="images/16.jpg" alt="Coupler silver side down" height="400">
 
-3.  Take the other coupler and place it silver side down over the lens.
-    Keep the lens central to the couplers hole.
+3.  Take the spare coupler and place it silver side down over the lens of the phphone, keeping the phone lens aperture central to the couplers hole. Press and smooth it fimly to the tape. It's a strong bond at this point between the phone surface and the coupler. Now we've a magnetic ring bonded to our phone.
+
+Prepare a slide on the foldscope and place it on a table or desk in front of you. Now open your camera app and approach the foldscope aperture (blue side up) where you would hold it up to your eye. When you get close enough the coupler will pull the 'scope up to the magentic coupler and your auto focus will capture the image from the ball lens.
+
+Focus by shifting the paper folded focus ramp left or right.
+
+You can take it off again and replace it but after a few replacements the glue degrades.
 
 If you setup near a window or open laptop this serves as a good overall light source but experiment with the included LED & battery, known in Maker circles as an LED throwie
 
