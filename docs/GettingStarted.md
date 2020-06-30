@@ -9,7 +9,7 @@ You should have had time to play with your foldscope and get used to capturing i
 
 Some of you may have included in the kit a random pre-prepared glass slide donated from a microscope enthusiast from the Wirral in Merseyside which is good to practice with. The foldscope works with glass slides really well in addtion to the paper slides included in the foldscope pop-out 'net' where you assembled all your foldscope components.
 
-### Quick Foldscope Assembly 🔬e
+### Quick Foldscope Assembly 🔬
 
 We are going to do a quick build of a [Foldscope](https://www.foldscope.com/) Prakesh Labs ingenious bit of microengineering for frugal science.
 
@@ -74,6 +74,8 @@ Use the micro disposable pipette to inject a drop of the algae suspension into t
 <img src="bookletimages/18.png" height="200">
 
 Make sure you have got used to inserting and securing a glass slide into the Foldscope. When first doing it it's really difficult, the Foldscope coated paper is surprisingly resilient; you'll need to stretch the slots by inserting and removing a clean slide in and out of the slots of the paper platform so you can move it around easily to find and focus your slide and PDMS slab. It takes practice and some skill.
+
+<img src="images/insert-slide.png" height="200">
 
 If you've made a nice slim PDMS impression we have found it useful to gently place a glass coverslip over the slab and algae suspension, then allow capillary action again by pressing very gently to secure the slip to the slide. You might see little 'rainbows' on the slide if it's secure, called Newtons rings.
 
