@@ -5,15 +5,18 @@ Here are some additional notes to complement the instruction booklet included in
 
 Your kit should include [this inventory of components](#inventory) 
 
-You should have had time to play with your foldscope and get used to capturing images on your phone. Here's a fast and dirty assembly if you're in a rush to get going. Practice capturing images before you make your first moulds though!
+You should have had time to assemble and play with your [Foldscope](https://www.foldscope.com/) and got used to capturing images on your phone based on the Foldscope official fold out instructions included.
+
+We also only use phones to do our viewing as we use glass slides in this add-on kit. Holding it up to your eye with potential glass chippings from accidents handling glass slides is risky, and besides using your phone means you can video and take images easily and keep your slide still to help see our algal companions.
 
 Some of you may have included in the kit a random pre-prepared glass slide donated from a microscope enthusiast from the Wirral in Merseyside which is good to practice with. The foldscope works with glass slides really well in addtion to the paper slides included in the foldscope pop-out 'net' where you assembled all your foldscope components.
 
-### Quick Foldscope Assembly 🔬
+Below is a fast and dirty assembly if you're in a rush to get going. Practice capturing images before you make your first moulds though!
 
-We are going to do a quick build of a [Foldscope](https://www.foldscope.com/) Prakesh Labs ingenious bit of microengineering for frugal science.
 
-We also only use phones to do our viewing as we use glass slides in this add-on kit. Holding it up to your eye with potential glass chippings from accidents handling glass slides is risky, and besides using your phone means you can video and take images easily and keep your slide still to help see our algal companions.
+### Quickstart: Foldscope Assembly 🔬
+
+
 
 1.  Open up your foldscope kit and open the instructions. We are going
     to just build the lens stage and focus ramp, a minimal build to look
