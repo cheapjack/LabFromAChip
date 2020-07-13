@@ -25,13 +25,13 @@ https://cheapjack.github.io/LabFromAChip/
 
 ## Methods
 
-It's a playful DIY approach, a key feature of Ross' work and his collaborators at [Domestic Science](https://domesticscience.org.uk/) and [DoESLiverpool](https://doesliverpool.com/). These kits are emerging, messy and unfinished; they 'bag up' & include existing kits, primarily the [Foldscope](https://www.foldscope.com/) and are at once a kind of literature review, fan-non-fiction and remix; your interactions will inform their future story. We'll use model organisms and surplus integrated circuits (IC's), the black boxes of microbiology and computer science, through a form of handheld inter-species play. We'll learn how to make DIY micro-fluidic moulds, following the practices observed in Ross' research developed by researchers and teaching staff in the Division of Biomedical and Life Sciences (BLS) at Lancaster University.
+It's a playful DIY approach to kit making, a key feature of Ross' work and his collaborators at [Domestic Science](https://domesticscience.org.uk/) and [DoESLiverpool](https://doesliverpool.com/). These kits are emerging, messy and unfinished; they 'bag up' & include existing kits, primarily the [Foldscope](https://www.foldscope.com/) and are at once a kind of literature review, fan-non-fiction and remix; your interactions will inform their future story. Once you receive your kit you will be able to use model organisms and surplus integrated circuits (IC's) included, the black boxes of microbiology and computer science. We'll learn how to make DIY micro-fluidic moulds, following the practices observed in Ross' research developed by researchers and teaching staff in the Division of Biomedical and Life Sciences (BLS) at Lancaster University.
 
 For us science studies is a theoretical repertoire for a form of 'critical making', implosions & configuration methods (Ratto, Haraway, Dumit, Suchman) developed in an art practice embedded in microbiological pedagogy, the teaching space of BLS Lancaster and makerspace culture. The repertoire helps us 'unbox' an "infinity of traces" where the convenient mobilities of PCBs, biotech and interspecies gaming become not-so-humble-bundles of love, education, mobility, identity and inequality.
 
-This helps inform, 'Interleaving practices' the artist-researchers emerging method for working with people in the diverse disciplines and domains of biomedical technoscience using the format of what we think of as 'kit culture', a mix of so-called STEAM education and makerspace culture. From here we negotiate the "World to chip barrier" where the 'revolutionary' promise of 'Lab-On-A-Chip' technology often becomes "A-Chip-In-A-Lab". Kits here are boundary objects to support ongoing, troubling and messy explorations of biopolitics and cross species value extraction and a chance to see how much of this can be carried along in a kit format.
+This helps inform, 'Interleaving practices' the artist-researchers emerging method for working with people in the diverse disciplines and domains of biomedical technoscience using the format of what we think of as 'kit culture', a mix of so-called STEAM education and makerspace culture. From here we negotiate the "World to chip barrier" (Longwell, Scott A, and Fordyce, Polly M. 2019. *micrIO: an open-source autosampler and fraction collector for automated microfluidic input–output London Royal Society of Chemistry*) where the 'revolutionary' promise of 'Lab-On-A-Chip' technology often becomes "A-Chip-In-A-Lab" (Ibid.). Kits here are boundary objects to support ongoing, troubling and messy explorations of biopolitics and cross species value extraction and a chance to see how much of this can be carried along in a kit format.
 
-Participants having received their kits will use included [Foldscopes](https://www.foldscope.com/) with their smartphones and other DIY lab materials to make non-toxic Polydimethylsiloxane (PDMS) silicon moulds from surplus 555 timer chips and the grooves of a fragment of a 7 inch vinyl record from a long gone Lovers Rock record label. Together, online and in our hands, we will try to play with, yet fail to care-for-fully, Euglena gracilis a heterotrophic protist algae, as hungry and motile as an animal, yet as resilient as a photosynthesising plant.
+Participants having received their kits will use included [Foldscopes](https://www.foldscope.com/) with their smartphones and other included DIY lab materials to make non-toxic Polydimethylsiloxane (PDMS) silicon moulds from surplus 555 timer chips and the grooves of a fragment of a 7 inch vinyl record from a long gone Lovers Rock record label. Together, online and in our hands, we will try to play with, yet fail to care-for-fully, Euglena gracilis a heterotrophic protist algae, as hungry and motile as an animal, yet as resilient as a photosynthesising plant.
 
 ## Relevance
 
@@ -51,11 +51,11 @@ Material activism, Kit making culture
 ## Technical Information
 
 Online video platform information will be provided.
-https://cheapjack.github.io/LabFromAChip/#included
+[Included](https://cheapjack.github.io/LabFromAChip/#included)
 
 ## Project URL
 
-https://github.com/cheapjack/LabFromAChip
+[cheapjack.github.com/LabFromAChip](https://cheapjack.github.com/LabFromAChip)
 
 ## Author
 (Presenter-Artist-Researcher) [Ross Dalziel](mailto:r.dalziel@lancaster.ac.uk); Lancaster University
