@@ -21,7 +21,7 @@ We also welcome ongoing engagement and hope we can start some kind of collective
 
 The project website under construction provides updated and  further information and guidance
 
-https://cheapjack.github.io/LabFromAChip/
+[cheapjack.github.io/LabFromAChip/](https://cheapjack.github.io/LabFromAChip/)
 
 ## Methods
 
