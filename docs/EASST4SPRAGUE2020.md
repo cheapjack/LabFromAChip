@@ -58,4 +58,8 @@ Online video platform information will be provided.
 [cheapjack.github.com/LabFromAChip](https://cheapjack.github.com/LabFromAChip)
 
 ## Author
-(Presenter-Artist-Researcher) [Ross Dalziel](mailto:r.dalziel@lancaster.ac.uk); Lancaster University
+(Presenter-Artist-Researcher) [Contact Ross Dalziel](mailto:r.dalziel@lancaster.ac.uk); Lancaster University
+
+## Getting Started
+
+Already have your kit? checkout the [Getting Started guide](https://cheapjack.github.io/LabFromAChip/GettingStarted)
