@@ -9,13 +9,17 @@ You now have a genuine foldscope kit with some extras to help you experiment in 
 
 ## Foldscope Assembly
 
-The first thing to do is to assemble your Foldscope. This takes some practice to see something. Please use the included example slide in the plastic bag to test that you can see something.
+The first thing to do is to assemble your Foldscope. This takes some practice to get everything assembled and be comfortable viewing something.
 
-There is an [online user guide](https://www.foldscope.com/user-guide) and [series of tutorials](https://www.foldscope.com/tutorials) on their website but their YouTube channel is super helpful. Fully fold out the included colour net and read both sides then follow alongwith the YouTube videos above to assemble and use your foldscope. We'll be using an included ready made glass microscope slide for you to test your foldscope so make sure once assembled you [watch the glass slide tutorial](https://www.youtube.com/watch?v=z4qLuXhI3pI)
+We'll be using an included ready made glass microscope slide for you to test your foldscope so make sure once assembled you [watch the glass slide tutorial](https://www.youtube.com/watch?v=z4qLuXhI3pI)
+
+There is an [online user guide](https://www.foldscope.com/user-guide) and [series of tutorials](https://www.foldscope.com/tutorials) on the official Foldscope website and their YouTube channel especially is super helpful.
+
+Fully fold out the included colour net and read both sides then follow alongwith the YouTube videos above to assemble and use your foldscope.
 
 ## Phone Viewing
 
-We have found that the Phone Viewing Method is the best way to to get images which isn't really made clear on the official guidance.
+We have found that the [Phone Viewing Method](https://www.youtube.com/watch?v=0iRCceGCGus&feature=youtu.be) is the best way to to get images which isn't really made clear on the official guidance.
 
 ![Foldscope phone viewing guide](images/PhoneViewing.jpg)
 
