@@ -1,7 +1,7 @@
 #  Lab From A Chip
 Programme of Making and Doing Session at [EASST4SPRAGUE2020](https://www.easst4s2020prague.org/)
 
-![*Euglena gracilis* on a haemocytometer viewed under a DIY lasercut microscope](images/protistcount.jpg)
+![*Euglena gracilis* on a hemocytometer viewed under a DIY lasercut microscope](images/protistcount.jpg)
 
 ## Abstract
 
@@ -19,7 +19,7 @@ We'll provide more information to participants who sign up with respect to onlin
 
 We also welcome ongoing engagement and hope we can start some kind of collective and engage further with all of our research practices.
 
-The project website under construction provides updated and  further information and guidance
+The project homepage provides updated further information and guidance
 
 [cheapjack.github.io/LabFromAChip/](https://cheapjack.github.io/LabFromAChip/)
 
@@ -58,7 +58,8 @@ Online video platform information will be provided.
 [cheapjack.github.com/LabFromAChip](https://cheapjack.github.com/LabFromAChip)
 
 ## Author
-(Presenter-Artist-Researcher) [Contact Ross Dalziel](mailto:r.dalziel@lancaster.ac.uk); Lancaster University
+(Presenter-Artist-Researcher)
+<a href="mailto:email@example.com?subject=Lab From A Chip at EASST4SPRAGUE2020">Ross Dalziel</a> 
 
 ## Getting Started
 
