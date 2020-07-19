@@ -1,4 +1,4 @@
-<img src="images/package_front_small.jpg" width="600">
+<img src="images/LabFromChipKitSmall.png" width="600">
 
 Lab-from-a-chip is a DIY intervention in Lab On A Chip technology using model organisms inspired by Science and Technology studies and scientific practice and part of Ross Dalziel's PhD research, Critical Kits at the [Division for BioMedical Life Sciences at Lancaster University (BLS)](https://www.lancaster.ac.uk/biomedical-and-life-sciences/) and makerspace [DoESLiverpool](https://www.lancaster.ac.uk/biomedical-and-life-sciences).
 
