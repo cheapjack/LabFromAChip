@@ -1,31 +1,43 @@
 
 <img src="images/LabPacking1.jpg">
 
-## Welcome!
+## Welcome! ⚠ ️
 
-Warning ⚠️ This project takes time!
+Warning: This project takes time!
 
 You now have a genuine foldscope kit with some extras to help you experiment in DIY microfluidics.
 
-## Foldscope Assembly
+## Preperation: Foldscope Assembly & Testing ⚙️
 
 The first thing to do is to assemble your Foldscope. This takes some practice to get everything assembled and be comfortable viewing something.
 
-We'll be using an included ready made glass microscope slide for you to test your foldscope so make sure once assembled you [watch the glass slide tutorial](https://www.youtube.com/watch?v=z4qLuXhI3pI)
+We've included a ready made glass microscope slide for you to 'test' your foldscope so make sure once assembled you [watch the glass slide tutorial](https://www.youtube.com/watch?v=z4qLuXhI3pI). The slides are labelled and the sample is random but ready to view. If you can resolve a clear image and take a picture on your smartphone camera then you are ready to start making your own slides.
 
 There is an [online user guide](https://www.foldscope.com/user-guide) and [series of tutorials](https://www.foldscope.com/tutorials) on the official Foldscope website and their YouTube channel especially is super helpful.
 
 Fully fold out the included colour net and read both sides then follow alongwith the YouTube videos above to assemble and use your foldscope.
 
+## Back in Time ⌛
+
+When microscopes were first used people did not know what they were looking at; what was a new organism or an artefact of the lens or a tiny lump of grease from a finger? Early geneticists, long before they imagined 'seeing' a gene, would often ban them from the laboratory as unreliable. We've come a long way.
+
+In many ways the foldscope puts us back in time as we struggle (and it can be!) to see something. However you'll be surprised just how much you actually tacitly 'know' about what you are looking at. You'll intimately 'know' when you see the algae or a plant cell sample. Unlike laboratory 'scopes' your tiny hand movements and fiddling with your phone are very visible, you actually get to 'feel' when you are seeing something. This is a bit like Ian Hacking's idea of 'Intervening'; we 'see' with microscopes partly because of this awareness of how we are interacting with the sample.
+
+>Remember, with microscopes we are mainly seeing light being **refracted** 'through' an organism when in our world we only ever really see light reflected off the surface of an object.
+
+## 📲
 ## Phone Viewing
 
-We have found that the [Phone Viewing Method](https://www.youtube.com/watch?v=0iRCceGCGus&feature=youtu.be) is the best way to to get images which isn't really made clear on the official guidance.
+
+We have found that the [Phone Viewing Method](https://www.youtube.com/watch?v=0iRCceGCGus&feature=youtu.be) is the best way to to get images which isn't really made clear on the official guidance. You **can** hold it up to your eye and day light but really many of us love sharing our images with a phone so we'd like you to try get used to that.
 
 ![Foldscope phone viewing guide](images/PhoneViewing.jpg)
 
 There's a helpful [video tutorial](https://www.youtube.com/watch?v=hDIBLYLK_kg) that's well worth checking out.
 
-## Foldscope Ready
+We've also found resting on a desk and tilting the phone with the 'scope attached up to light reflected from your desk or laptop is enough illumination
+
+## Foldscope Ready 🔬
 
 
 Once you have managed to successfully view the included sample glass slide in the foldscope and got to grips with the phone view, check out your Lab From A Chip booklet.
@@ -41,7 +53,7 @@ Some of you may have included in the kit a random pre-prepared glass slide donat
 Below is a fast and dirty assembly if you're in a rush to get going. Practice capturing images before you make your first moulds though!
 
 
-### Quickstart: Foldscope Assembly 🔬
+### Fast & Dirty Quickstart: Foldscope Assembly ⏩🔬
 
 
 
@@ -58,7 +70,7 @@ Below is a fast and dirty assembly if you're in a rush to get going. Practice ca
     7.  Fold the bottom of the Lens stage.
 
 
-### PDMS Slide prep 🐛
+### PDMS Slide prep 💉💉
 
 <img src="bookletimages/13.png" height="200">
 
@@ -69,43 +81,79 @@ Inject equal amounts (0.5ml) of silicon from syringe A and fixer from syringe B 
 
 Mix well and add lid
 
-<img src="bookletimages/16.png" height="200">
 
-## DIY Paperfuge
+## DIY Paperfuge 💫
+
+<img src="bookletimages/16.png" height="200">
 
 [Assemble your DIY Paperfuge](DIYPaperfuge.md) and carefully spin your PDMS! It's best to have put to rest for 15 minutes after mixing while you prepare the 'fuge. If your unsure how to wind up the Paperfuge ready for spinning, have a look at this [DIY Whirligig Toy tutorial](https://www.todaysparent.com/family/crafts/how-to-make-an-old-school-whirligig-fidget-toy/) to get the idea of how to use it and follow the instructions on the paperfuge cut out included. You might like to decorate your 'fuge to make nice patterns while you spin.
 
-## Making An Impression
+## Making An Impression 📥⌛
 
-You now need to make an impression in the PDMS mix after mixing and spinning. To do this take your black viny fragment or `555` timer chip and with tweezers gently place grooves (if you're using a vinyl fragment) or the chip logo (if using the chip). Press it gently into the mix so that you end up with a thin section of PDMS with the grooves or chip markings once it hardens.
+<img src="bookletimages/impressionmaking.png" height="200" align="right">
 
-Now you need to wait and let it set! This can take, depending on thickness up to 48 hours at room temperature. In a warm place it's alot quicker, some suggestions of 80 degrees Centigrade estimate fully setting in 2 hours.
+You now need to make an impression in the PDMS mix after mixing and spinning. To do this take your black viny fragment or `555` timer chip and with tweezers gently place grooves (if you're using a vinyl fragment) or the chip logo (if using the chip). Press it gently into the mix and you'll end up with a 'slab' of silicon with the impressions of the record grooves or the chip surface when it sets. This is tricky, press too hard and your section of PDMS is too thin to remove in one piece with the grooves or chip markings once it hardens. Usually just resting it in the mix is enough providing you dont drop or move the petri dish too much after.
 
-We `**DO NOT**` recommend heating, over 80 degrees and your petri dish will melt. In our case using the vinyl fragment, it is safest to just leave it in warm room overnight, You really `**DO NOT want under ANY circumstances to overheat your vinyl fragment**`. Vapourising or burning vinyl releases toxic chlorine fumes that even in tiny amounts inhaled can be extremely dangerous and deadly.
+<img src="bookletimages/impressionmaking2.png" width="200" align="left">
 
-You can of course make more impressions in other containers and skip the spinning step.
+Now you need to wait and let it set! This can take, depending on thickness, up to 48 hours at room temperature but we've found just leaving overnight is fine
 
-While you wait practice with your foldscope and experiment viewing your algae a nd other things without your PDMS slide.
+## Tips
 
-There is another step when making microfluidic inspressionts, when you place the mix into a vaccuum to remove any bubbles. For us this is too difficult; there are plenty of DIY vacuum chamber designs out there, [This DIY chamber is our favourite](https://www.youtube.com/watch?v=k-64AgZp9OE) but we've found you can get ok results without bothering, the bubbles tend to leave naturally and don't reallly affect our results.
+### Temperature
 
-## Removing and Placing our PDMS slab
+In a warmer place or in sunlight it's alot quicker, some suggestions of cooking to 80 degrees Centigrade estimate fully setting in 2 hours.
 
-After leaving your 'slab' or PDMS in the petridish overnight we need to carefully remove it. So we need to carefully remove the fragment from the mix. Now cut, preferably with a scalpel or very sharp fine knife, the 'slab' with our impressions in them and very carefully lift it with tweezers, impression down onto the glass slide. If it breaks, dont worry get what you can onto the slide. Always be making extra slides for next time! The chips and vinyl can be re-used.
+We `**DO NOT**` recomme $nd heating, anything over 80 degrees and your petri dish will melt. In our case using the vinyl fragment, it is safest to just leave it in warm room overnight, You really `**DO NOT want under ANY circumstances to overheat your vinyl fragment**`. Vapourising or burning vinyl releases toxic chlorine fumes that even in tiny amounts inhaled can be extremely dangerous and deadly.
 
-## Placing Our Algae in Our PDMS Slide
+### Other Techniques
 
-Get your disposable micro-pipette and capture a drop of algae, being careful not to spill the remaining algae culture
+You can of course make more impressions in other containers and skip the spinning step or even paint on the `A` & `B` mix.
+
+While you wait practice with your foldscope and experiment viewing your algae and other things without your PDMS slide.
+
+### Bubbles
+
+There is another step when making microfluidic moulds, making a vaccuum in a degassing chamber to remove any bubbles. For us this is too difficult; although there are plenty of nice DIY vacuum chamber designs out there, [This DIY chamber is our favourite](https://www.youtube.com/watch?v=k-64AgZp9OE) but we've found you can get ok results without this, the bubbles tend to leave naturally and don't reallly affect our results as we don't mind a few bubbles in our images, they might be intersting objects for the algae to swim around.
+
+## Removing and Placing our PDMS slab🥢
+
+After leaving your 'slab' of PDMS in the petridish overnight we need to carefully remove it. So we need to carefully remove the fragment from the mix. Now cut, preferably with a scalpel or very sharp fine knife, (sorry we can't include that) the 'slab' with our impressions in them and very carefully scrape it from the dish surface with a tiny flathead screwdriver then lift it with your included tweezers.
+
+Now carefully place it impression down onto the glass slide. If it breaks (which it often does!), dont worry! get what you can onto the slide.
+
+### Tip
+Always be making extra slides for next time! The chips and vinyl can be re-used, just peel out the unused silicon. You may want to find other petri dishes or similar containers
+
+## Placing Our Algae in Our PDMS Slide🐛
+
+Get your disposable micro-pipette and capture a drop of algae, being careful not to spill the remaining algae culture.
 
 <img src="bookletimages/17.png" height="200">
 
-Use the micro disposable pipette to inject a drop of the algae suspension into the side of the impressed silicon. Capilliary action should pull the liquid into the gap between the tiny impressions of the chip surface markings or the vinyl channels and the microscope slide.
+Use the micro disposable pipette to inject a drop of the algae suspension into and under the side of the impressed silicon and dont worry about excess liquid around it. Capilliary action should pull the liquid and our algal friends into the gap between the tiny impressions of the chip surface markings or the vinyl channels and the microscope slide.
 
-<img src="bookletimages/18.png" height="200">
+Now carefully add a cover slip over the top and the excess liquid should help it stick to the side. You can get results without a cover slip if you find that your slab is too thick; but you can rub the slab off the slide if you move it around the lens too much.
+
+
+## Fixing to the foldscope.
+
+You want the cover slip on the top of your slide or the slab to face the ball lens on the yellow underside of the 'scope. You can unfold the magnetic section and then when you can see your sample is over the lens, let it snap back and this is often enough to keep your sample in place when viewing
+
+You can also use it without the full foldscope frame; a minimal setup for use with the phone view as below
+
+<img src="images/13.jpg" height="200">
+<img src="images/14.jpg" height="200">
+
+### Fixing more securely
+
+<img src="bookletimages/18.png" width="400">
+
+You can insert it more securely as in the diagram above
 
 Make sure you have got used to inserting and securing a glass slide into the Foldscope. When first doing it it's really difficult, the Foldscope coated paper is surprisingly resilient; you'll need to stretch the slots by inserting and removing a clean slide in and out of the slots of the paper platform so you can move it around easily to find and focus your slide and PDMS slab. It takes practice and some skill.
 
-<img src="images/insert-slide.png" height="200">
+<img src="images/insert-slide.png" height="200" align="right">
 
 If you've made a nice slim PDMS impression we have found it useful to gently place a glass coverslip over the slab and algae suspension, then allow capillary action again by pressing very gently to secure the slip to the slide. You might see little 'rainbows' on the slide if it's secure, called Newtons rings.
 
@@ -114,7 +162,7 @@ If its really thick you can easily break the coverslip and this can make tiny da
 Insert your prepared slide into the Foldscope as below (be careful slotting it in not to push your PDMS slab or coverslip away)
 
 
-That's it! You're ready! Now setup your phone with the Foldscope and see if our algal friends have found their way into the microfluidic channels. We've found that the vinyl record is the most rewarding, as you really get to see our *Euglena gracilis* moving along the grooves and you could try imagine how slow the music might sound like at their speed. With your phone setup you could try shining the LED included and see how they respond.
+That's it! You're ready! Now setup your phone with the Foldscope [as above](#phone-viewing) and see if our algal friends have found their way into the microfluidic channels. We've found that the vinyl record is the most rewarding, as you really get to see our *Euglena gracilis* moving along the grooves and you could try imagine how slow the music might sound like at their speed. With your phone setup you could try shining the LED included and see how they respond.
 
 These organisms are mixotrophic in that they 'eat' proteins and plant matter but also photosynthesise, so like plants 'make' food from sunlight. They are like plants but also behave like animals.
 
@@ -123,30 +171,6 @@ Have a think what other ordinary stuff we have in our homes and workplaces that 
 Please post your images to twitter and copy @CriticalKits and @PrakashLab or Instagram @cheapjack @foldscope
 
 Finally if you'd like to take part in the CriticalKits research project please read and complete (don't forget to sign digitally! use an image or insert the text in italic) the [Participant Information Sheet (PIS)](PIS.docx)
-
-### Connect to phone. 🤳 📷
-
-Refer to **Phone View** in the **VIEWING** section of the main Foldscope instruction booklet.
-
-<img src="images/8.jpg" alt="White phone stickers" height="400">
-
-1.  Peel off a round double sided sticker with white ring cover and stick it carefully over your phone camera lens, make sure you dont get the glue on the lens. It comes off with water if you do 😀. Rub it in place firmly with cover on so it bonds firmly to the phone surface around the lens. Peel off the white cover. Now theres a sticky side facing up with the camera aperture in the centre.
-
-<img src="images/16.jpg" alt="Coupler silver side down" height="400">
-
-3.  Take the spare coupler and place it silver side down over the lens of the phphone, keeping the phone lens aperture central to the couplers hole. Press and smooth it fimly to the tape. It's a strong bond at this point between the phone surface and the coupler. Now we've a magnetic ring bonded to our phone.
-
-Prepare a slide on the foldscope and place it on a table or desk in front of you. Now open your camera app and approach the foldscope aperture (blue side up) where you would hold it up to your eye. When you get close enough the coupler will pull the 'scope up to the magentic coupler and your auto focus will capture the image from the ball lens.
-
-Focus by shifting the paper folded focus ramp left or right.
-
-You can take it off again and replace it but after a few replacements the glue degrades.
-
-If you setup near a window or open laptop this serves as a good overall light source but experiment with the included LED & battery, known in Maker circles as an LED throwie
-
-# 🎥
-
-There's a [handy video guide here](https://www.youtube.com/watch?v=0iRCceGCGus&feature=youtu.be&t=81)
 
 #### LED throwie
 
