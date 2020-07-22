@@ -48,7 +48,7 @@ Surplus electronic chip|1|[EBay](https://www.ebay.co.uk/itm/NE555-Timer-Chips-5-
 7"/12" vinyl record fragment|1|Found in a flat in the Holly Street Estate, Hackney 1996
 
 
-## Background: Bridging The World-To-Chip Barrier
+## Bridging The World-To-Chip Barrier
 
 <img alt="Workshop at Liverpool John Moores University with Dr Rod Dillon, 2019" src="images/workshopmontage.jpg" width="400">
 
