@@ -82,12 +82,6 @@ Inject equal amounts (0.5ml) of silicon from syringe A and fixer from syringe B 
 Mix well and add lid
 
 
-## DIY Paperfuge 💫
-
-<img src="bookletimages/16.png" height="200">
-
-[Assemble your DIY Paperfuge](DIYPaperfuge.md) and carefully spin your PDMS! It's best to have put to rest for 15 minutes after mixing while you prepare the 'fuge. If your unsure how to wind up the Paperfuge ready for spinning, have a look at this [DIY Whirligig Toy tutorial](https://www.todaysparent.com/family/crafts/how-to-make-an-old-school-whirligig-fidget-toy/) to get the idea of how to use it and follow the instructions on the paperfuge cut out included. You might like to decorate your 'fuge to make nice patterns while you spin.
-
 ## Making An Impression 📥⌛
 
 <img src="bookletimages/impressionmaking.png" height="200" align="right">
