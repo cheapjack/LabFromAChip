@@ -3,6 +3,10 @@ Programme of Making and Doing Session at [EASST4SPRAGUE2020](https://www.easst4s
 
 ![*Euglena gracilis* on a hemocytometer viewed under a DIY lasercut microscope](images/protistcount.jpg)
 
+## Getting Started
+
+Already received your kit? Head over to the [Getting Started Guide](GettingStarted.md)
+
 ## Abstract
 
 We ask questions as we build little logical maps together with *Euglena gracilis*; why are diodes so cheap, how do worms die? What organisms should we play with and how do old 7-inch vinyl records, Printed Circuit Boards (PCB's), Integrated circuits (IC's) A.K.A. silicon chips and other surplus domestic artefacts provide physical spaces to tell stories and learn critical knowledge? We explore this through 'kit culture', hands-on by using a prototype 'educational' kit and the emerging method of 'Interleaving Practices', part of artist-researcher Ross Dalziel's art-science practice and PhD research embedded in Lancaster University.
@@ -59,7 +63,7 @@ Online video platform information will be provided.
 
 ## Author
 (Presenter-Artist-Researcher)
-<a href="mailto:email@example.com?subject=Lab From A Chip at EASST4SPRAGUE2020">Ross Dalziel</a> 
+<a href="mailto:r.dalziel@lancaster.ac.uk?subject=Lab From A Chip at EASST4SPRAGUE2020">Ross Dalziel</a> 
 
 ## Getting Started
 

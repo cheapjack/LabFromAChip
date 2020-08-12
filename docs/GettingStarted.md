@@ -11,23 +11,14 @@ You now have a genuine foldscope kit with some extras to help you experiment in 
 
 The first thing to do is to assemble your Foldscope. This takes some practice to get everything assembled and be comfortable viewing something.
 
-We've included a ready made glass microscope slide for you to 'test' your foldscope so make sure once assembled you [watch the glass slide tutorial](https://www.youtube.com/watch?v=z4qLuXhI3pI). The slides are labelled and the sample is random but ready to view. If you can resolve a clear image and take a picture on your smartphone camera then you are ready to start making your own slides.
+Fully fold out the included colour cardboard net; this contains all the foldscope components that you 'pop' out of the net and fold together with the magnetic lens couplers and lenses in the bubble wrap envelope. Unfold the instruction booklet and read both sides and follow the instructions to make your foldscope.
 
 There is an [online user guide](https://www.foldscope.com/user-guide) and [series of tutorials](https://www.foldscope.com/tutorials) on the official Foldscope website and their YouTube channel especially is super helpful.
 
-Fully fold out the included colour net and read both sides then follow alongwith the YouTube videos above to assemble and use your foldscope.
-
-## Back in Time ⌛
-
-When microscopes were first used people did not know what they were looking at; what was a new organism or an artefact of the lens or a tiny lump of grease from a finger? Early geneticists, long before they imagined 'seeing' a gene, would often ban them from the laboratory as unreliable. We've come a long way.
-
-In many ways the foldscope puts us back in time as we struggle (and it can be!) to see something. However you'll be surprised just how much you actually tacitly 'know' about what you are looking at. You'll intimately 'know' when you see the algae or a plant cell sample. Unlike laboratory 'scopes' your tiny hand movements and fiddling with your phone are very visible, you actually get to 'feel' when you are seeing something. This is a bit like Ian Hacking's idea of 'Intervening'; we 'see' with microscopes partly because of this awareness of how we are interacting with the sample.
-
->Remember, with microscopes we are mainly seeing light being **refracted** 'through' an organism when in our world we only ever really see light reflected off the surface of an object.
+We've included a ready made glass microscope slide for you to 'test' your foldscope so make sure once assembled you [watch the glass slide tutorial](https://www.youtube.com/watch?v=z4qLuXhI3pI) to help you test the microscope. The slides are labelled and the sample is randomly chosen from an amateur bilogists collectiong, typical of the slides you might find in a beginners or children's microscope kit, but ready to view and some of them even stained to help you see the structures. If you can resolve a clear image of this slide and take a picture on your smartphone camera then you are ready to start making your own slides with PDMS moulds.
 
 ## 📲
 ## Phone Viewing
-
 
 We have found that the [Phone Viewing Method](https://www.youtube.com/watch?v=0iRCceGCGus&feature=youtu.be) is the best way to to get images which isn't really made clear on the official guidance. You **can** hold it up to your eye and day light but really many of us love sharing our images with a phone so we'd like you to try get used to that.
 
@@ -37,24 +28,31 @@ There's a helpful [video tutorial](https://www.youtube.com/watch?v=hDIBLYLK_kg) 
 
 We've also found resting on a desk and tilting the phone with the 'scope attached up to light reflected from your desk or laptop is enough illumination
 
-## Foldscope Ready 🔬
 
+## Back in Time ⌛
+
+When microscopes were first used people did not know what they were looking at; what was a new organism or an artefact of the lens or a tiny lump of grease from a finger? Early geneticists, long before they imagined 'seeing' a gene, would often ban them from the laboratory as unreliable. We've come a long way.
+
+In many ways the foldscope puts us back in time as we struggle (and it can be!) to see something. However you'll be surprised just how much you actually tacitly 'know' about what you are looking at. You'll intimately 'know' when you see the algae or a plant cell sample. Unlike laboratory 'scopes' your tiny hand movements and fiddling with your phone are very visible, you actually get to 'feel' when you are seeing something. This is a bit like Ian Hacking's idea of 'Intervening'; we 'see' with microscopes partly because of this awareness of how we are interacting with the sample.
+
+>Remember, with microscopes we are mainly seeing light being **refracted** 'through' an organism when in our world we only ever really see light reflected off the surface of an object.
+
+## Foldscope Ready 🔬
 
 Once you have managed to successfully view the included sample glass slide in the foldscope and got to grips with the phone view, check out your Lab From A Chip booklet.
 
-Here are some additional notes to complement the instruction booklet included in your Foldscope kit bag.
+Below are additional notes to complement the instruction booklet included in your Foldscope kit bag.
 
-Your kit should include [this inventory of components](#inventory)
+Your kit should include, in addition to the foldscope, [this inventory of components](#inventory)
 
-We also only use phones to do our viewing as we use glass slides in this add-on kit. Holding it up to your eye with potential glass chippings from accidents handling glass slides is risky, and besides using your phone means you can video and take images easily and keep your slide still to help see our algal companions.
+We use phones to do most of our viewing as we use glass slides in this add-on kit. Holding it up to your eye with potential glass chippings from accidents handling glass slides is risky, and besides using your phone means you can video and take images easily and keep your slide still to help see our algal companions.
 
-Some of you may have included in the kit a random pre-prepared glass slide donated from a microscope enthusiast from the Wirral in Merseyside which is good to practice with. The foldscope works with glass slides really well in addtion to the paper slides included in the foldscope pop-out 'net' where you assembled all your foldscope components.
+ The foldscope works with glass slides really well in addtion to the paper slides included in the foldscope pop-out 'net' where you assembled all your foldscope components.
 
-Below is a fast and dirty assembly if you're in a rush to get going. Practice capturing images before you make your first moulds though!
+Below is a fast and dirty assembly of the foldscope if you're in a rush to get going. Practice capturing images before you make your first moulds though!
 
 
 ### Fast & Dirty Quickstart: Foldscope Assembly ⏩🔬
-
 
 
 1.  Open up your foldscope kit and open the instructions. We are going
@@ -71,6 +69,8 @@ Below is a fast and dirty assembly if you're in a rush to get going. Practice ca
 
 
 ### PDMS Slide prep 💉💉
+
+You should now be fairly confident you can image things with the Foldscope and take an image with your phone. 
 
 <img src="bookletimages/13.png" height="200">
 
