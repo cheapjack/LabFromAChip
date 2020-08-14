@@ -172,13 +172,20 @@ Finally if you'd like to take part in the CriticalKits research project please r
 
 We've included an LED and battery which you can use for extra lighting with the help of your tape. You can also use them as an [LED Throwie](https://makezine.com/projects/led-throwies/) for guerilla LED graffitti on the macroscale.
 
-*Euglena gracilis* are popular in the [field of Biotic games]() Use your LED to see if you can make the algae move in the direction you wantto see if you can make the algae move in the direction you want. If you look carefully you'll see their tiny red spot which is sensitive to light, they'll make their way toward the light as for them (like us) it's a source of food and energy  
+*Euglena gracilis* are popular in the [field of Biotic games](https://biodigitalgames.com/). Use your LED to see if you can make the algae move in the direction you wantto see if you can make the algae move in the direction you want. If you look carefully you'll see their tiny red spot which is sensitive to light, they'll make their way toward the light as for them (like us) it's a source of food and energy  
 
 ### Share Your Experience
 
 Please post your images to twitter and copy @CriticalKits and @PrakashLab or Instagram @cheapjack @foldscope
 
 Finally if you'd like to take part in the CriticalKits research project please read and complete (don't forget to sign digitally! use an image or insert the text in italic) the [Participant Information Sheet (PIS)](PIS.docx)
+
+
+### Other Materials
+
+You might like to try using other materials. One tip for making moulds on big surfaces that dont fit a little petri dish is to use rolled up plasticine to make tiny 'walls' for your mould, if you try paint the PDMS on, it just spreads too thinly otherwise!
+
+Ideally you want little PDMS 'slabs' of 0.25mm thickness or less.
 
 
 ### Inventory
