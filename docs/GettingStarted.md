@@ -251,7 +251,11 @@ Pre-prepared PDMS with coverslip slide made from old vinyl record. This is to he
 
 Vinyl record Fragment. Some of you may not have a record collection and listen on big data infrastuctures like Spotify or YouTube or maybe if you care about artists getting paid, Bandcamp. You can't really get impressions from these sources although if you could access their server racks in the correct data centre you could find a hard drive that likely has some micro-engineered structures but you'd get in trouble!
 
+<img src="images/coverslipstickers.png" alt="Picture of coverslip stickers" height="200">
+Cover slip stickers for those more awkward thick PDMS slabs and samples
 
+<img src="images/phonestickers.png" alt="Picture of phone stickers" height="200">
+Phone stickers for fixing a magnetic lens frame to your phone camera
 
 <img src="images/tape.jpg" alt="Picture of micro sellotape" height="200">
 
