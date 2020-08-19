@@ -188,7 +188,9 @@ You begin to realise the most ordinary stuff in our human engineered world is fu
 
 Please post your images to twitter and copy @CriticalKits and @PrakashLab or Instagram @cheapjack @foldscope
 
-Finally if you'd like to take part in the CriticalKits research project please read and complete (don't forget to sign digitally! use an image or insert the text in italic) the [Participant Information Sheet (PIS)](PIS.docx)
+### Taking part further
+
+Finally if you'd like to take part in the CriticalKits research project please read and complete (don't forget to sign digitally! use an image or insert the text in italics) the [Participant Information Sheet (PIS)](PIS.docx) and send to <a href = "mailto:r.dalziel@lancaster.ac.uk?subject = Lab From A Chip Kit&body = My PIS sheet and consent">Ross Dalziel</a>
 
 
 ### Other Materials
