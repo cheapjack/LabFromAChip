@@ -190,7 +190,7 @@ Please post your images to twitter and copy @CriticalKits and @PrakashLab or Ins
 
 ### Taking part further
 
-Finally if you'd like to take part in the CriticalKits research project please read and complete (don't forget to sign digitally! use an image or insert the text in italics) the [Participant Information Sheet (PIS)](PIS.docx) and send to <a href = "mailto:r.dalziel@lancaster.ac.uk?subject = Lab From A Chip Kit&body = My PIS sheet and consent">Ross Dalziel</a>
+Finally if you'd like to take part in the CriticalKits research project please read and complete (don't forget to sign digitally! use an image or insert the text in italics) the [Participant Information Sheet (PIS)](https://github.com/cheapjack/LabFromAChip/raw/master/docs/PIS_Consent.docx) and send to <a href = "mailto:r.dalziel@lancaster.ac.uk?subject = Lab From A Chip Kit&body = My PIS sheet and consent">Ross Dalziel</a>
 
 
 ### Other Materials
