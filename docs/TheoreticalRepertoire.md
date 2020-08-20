@@ -1,9 +1,7 @@
 
 ## Theoretical Repertoire 📚 📦
 
-See [our theory presentation here](art-activism-sts.glitch.me/)
-
-![](images/boromir_meme_ready.jpg){width="400"}
+See [our theory presentation here](https://fuzzy-scabiosa.glitch.me/)
 
 In my research on kit culture, I try to build up a theoretical
 repertoire for tuning into what might be going on across various forms
