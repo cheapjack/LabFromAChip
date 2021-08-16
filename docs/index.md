@@ -16,36 +16,29 @@ Go to [Getting Started](./GettingStarted.md) to get making!
 -   Hard silicon timer chips, the logical oscillating workhorses that
     make the world tick!
 -   Stretchy see-through silicon polymers!
--   Lithium!
 -   Model Organisms, Biology's non-human collaborators!
--   [Leeuwenhoek](https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek)
-    Microscopes made of paper with lenses ground in China on a tape reel
-    just like electronic components!
+-   [Leeuwenhoek](https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek) Microscopes made of paper with lenses ground in China on a tape reel just like electronic components!
 -   The redundant media of Vinyl records!
--   Diodes!
--   Feminist technoscience!
 -   Critters that move like animals but eat like plants!
--   Making moulds from the capitalist ruins!
+-   Making moulds in the capitalist ruins!
 
 ## Included
 
 Item|Number|Source
 ---|---|---
-Item|Number|Source
----|---|---
 Foldscope|1|[Foldscope Shop](https://www.foldscope.com/)
-[PolyDiMethylSiloxane](https://en.wikipedia.org/wiki/Polydimethylsiloxane)(PDMS) Silicon in 2 syringes `A` & `B`|1|[EBay](https://www.ebay.co.uk/itm/0-5kg-Clear-Electronic-Potting-Compound-PV-Solar-Cell-Encapsulant-PDMS-RV/323393673289)
-Syringes|2|[Shop](https://www.ebay.co.uk/itm/Terumo-Sterile-Syringes-Hypodermic-Luer-Slip-Syringe-1ml-2-5ml-5ml-10ml-20ml-30m/263962579871)
-35mm Mini Petri Dish|1|[Shop](https://www.ebay.co.uk/itm/10-Pcs-Laboratory-Plastic-Petri-Dish-Sterile-Cell-Tissue-Culture-Dishes-35mm/292809086404)
-Glass Microscope slide|1|[EBay](https://www.ebay.co.uk/itm/Professional-50-pcs-Blank-Microscope-Slides-Cover-Glass-Lab-Prep-ground-edges/283412415605)
-Glass coverslips|3|[Ebay](https://www.ebay.co.uk/itm/100-Glass-Micro-Cover-Slips-Glass-Blank-Lab-Coverslip-Microscope-Slide-Cover/164281210287)
+[PolyDiMethylSiloxane](https://en.wikipedia.org/wiki/Polydimethylsiloxane)(PDMS) Silicon|1|[EBay Shop](https://www.ebay.co.uk/itm/0-5kg-Clear-Electronic-Potting-Compound-PV-Solar-Cell-Encapsulant-PDMS-RV/323393673289)
+2 pouches with syringes `A` & `B`|2|[EBay Shop](https://www.ebay.co.uk/itm/Terumo-Sterile-Syringes-Hypodermic-Luer-Slip-Syringe-1ml-2-5ml-5ml-10ml-20ml-30m/263962579871)
+35mm Mini Petri Dish|1|[EBay Shop](https://www.ebay.co.uk/itm/10-Pcs-Laboratory-Plastic-Petri-Dish-Sterile-Cell-Tissue-Culture-Dishes-35mm/292809086404)
+Glass Microscope slide|1|[EBay Shop](https://www.ebay.co.uk/itm/Professional-50-pcs-Blank-Microscope-Slides-Cover-Glass-Lab-Prep-ground-edges/283412415605)
 Pre-prepared glass microscope slide|1|DoESLiverpool community
 Instruction Booklet|1|cheapjack
-Paperfuge Kit|1|cheapjack
-Twine|1|cheapjack
 Tweezers|1|[EBay](https://www.ebay.co.uk/itm/10PC-TWEEZER-SET-FOR-PRECISE-ELECTRONICS-MODELLING-JEWELLERY-BEADING-WIRE-WORK/173541962441)
 Surplus electronic chip|1|[EBay](https://www.ebay.co.uk/itm/NE555-Timer-Chips-5-Pack-IC-PCB-Free-UK-P-P/231668892136)
 7"/12" vinyl record fragment|1|Found in a flat in the Holly Street Estate, Hackney 1996
+
+
+<!--Glass coverslips|3|[Ebay Shop](https://www.ebay.co.uk/itm/100-Glass-Micro-Cover-Slips-Glass-Blank-Lab-Coverslip-Microscope-Slide-Cover/164281210287)-->
 
 
 ## Bridging The World-To-Chip Barrier
