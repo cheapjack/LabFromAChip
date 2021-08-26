@@ -50,11 +50,12 @@ Practice capturing images before you make your first moulds though!
 <img src="images/14.jpg" height="200">
 
 
+The full build is best for general use and practice so get used to that first - it's quite easy to take away the stage later on. This method is useful if you want to swap between different slides often with your phone.    
+
 Open up your foldscope kit and open the instructions. We are going to just build up just the lens stage and focus ramp, a minimal build to look at some algae and make moulds and connect to our phone cameras. Basically you follow Steps 1 - 6 in the main Foldscope **ASSEMBLY INSTRUCTIONS**, ie the Instructions in the press out net that the 'scope sits inside, and step 10. of the 
  
-This method ignores the blue sample stage that lets you hold and move around the sample on the slide, and just uses the magnetic assembly to hold the slide in place. Then turn over the 'scope and follow the instructions of phone use to capture images and lift the phone and magnetically attached 'scope to the light of a window or laptop screen - this is useful if you want to swap between different slides often.    
+This method ignores the blue sample stage that lets you hold and move around the sample on the slide, and just uses the magnetic assembly to hold the slide in place. Then turn over the 'scope and follow the instructions of phone use to capture images and lift the phone and magnetically attached 'scope to the light of a window or laptop screen.
 
-The full build is best 
 
 ## Back in Time ⌛
 
