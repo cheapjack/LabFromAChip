@@ -5,17 +5,27 @@
 
 Warning: This project takes time!
 
-You now have a genuine foldscope kit with some extras to help you experiment in DIY microfluidics.
+You now have a genuine foldscope classroom kit with some extras to help you experiment in DIY microfluidics with the PDMS silicon provided in the pouches labelled `A` & `B`
+
+These extras include the Lab From A Chip instruction booklet to help with the microfluidic elements of the kit for viewing the included live algae samples. Once you receive your kit open it up and make sure your algae sample gets lots of light to help keep them alive!
 
 ## Preperation: Foldscope Assembly & Testing ⚙️
 
-The first thing to do is to assemble your Foldscope. This takes some practice to get everything assembled and be comfortable viewing something.
+The first thing to do is to assemble and get used to using your Foldscope. This takes some practice to get everything assembled and be comfortable viewing something.
 
 Fully fold out the included colour cardboard net; this contains all the foldscope components that you 'pop' out of the net and fold together with the magnetic lens couplers and lenses in the bubble wrap envelope. Unfold the instruction booklet and read both sides and follow the instructions to make your foldscope.
 
 There is an [online user guide](https://www.foldscope.com/user-guide) and [series of tutorials](https://www.foldscope.com/tutorials) on the official Foldscope website and their YouTube channel especially is super helpful.
 
-We've included a ready made glass microscope slide for you to 'test' your foldscope so make sure once assembled you [watch the glass slide tutorial](https://www.youtube.com/watch?v=z4qLuXhI3pI) to help you test the microscope. The slides are labelled and the sample is randomly chosen from an amateur biologist's collection, typical of the slides you might find in a beginners or children's microscope kit, but ready to view and some of them even stained to help you see the structures. If you can resolve a clear image of this slide and take a picture on your smartphone camera then you are ready to start making your own slides with PDMS moulds.
+It takes time to get consistent images with your phone which is what we are aiming for so you can share your images and keep a record of your experiments. You need to practice. Once you get used to it you can make a really simple 'Quickstart Minimal Build described below if you're swapping between lots of different slides.
+
+### Reference Glass Slide
+
+We've included a ready made glass microscope slide in the plastic bag inside the foldscope kit. Use this to 'test' your foldscope build and focussing skills so make sure once assembled you [watch the glass slide tutorial](https://www.youtube.com/watch?v=z4qLuXhI3pI) to help you test the microscope. The slides are labelled and the sample is randomly chosen from an amateur biologist's collection, typical of the slides you might find in a beginners or children's microscope kit, but ready to view and some of them even stained to help you see the structures. If you can resolve a clear image of this slide and take a picture on your smartphone camera then you are ready to start making your own slides with PDMS moulds.
+
+You'll find you need some effort to insert the slide into the frame - but the elasticity of the coated paper of the 'scope can stretch to accommodate - it's good to loosen it in this way so that when you insert your custom slide you won't damage your sample or PDMS slab
+
+We've also included a reuseable glass slide for your PDMS work - again inside the clear plastic bag in the foldscope kit but you can experiment with the paper slides included also.
 
 ## 📲
 ## Phone Viewing
@@ -26,36 +36,25 @@ We have found that the [Phone Viewing Method](https://www.youtube.com/watch?v=0i
 
 There's a helpful [video tutorial](https://www.youtube.com/watch?v=hDIBLYLK_kg) that's well worth checking out.
 
-We've also found resting on a desk and tilting the phone with the 'scope attached up to light reflected from your desk or laptop is enough illumination
+We've also found resting on a desk and tilting the phone with the 'scope attached up to light reflected from your desk or laptop is enough illumination. We suggest phones to do most of our viewing.
 
-We suggest phones to do most of our viewing as we use glass slides in this add-on kit. Holding it up to your eye with potential glass chippings from accidents handling glass slides is risky, and besides using your phone means you can video and take images easily and keep your slide still to help see our algal companions.
-
-It's worth noting aswell that the original [Foldscope Academic Paper](http://arxiv.org/abs/1403.1211) imagined the Foldscope could be a xenodiagnostic tool to identify host/parasites in blood and urine samples, or do haemocytometer counts, so viewing such samples at a safe distance with a phone is a good idea.
-
- The foldscope works with glass slides really well in addtion to the paper slides included in the foldscope pop-out 'net' where you assembled all your foldscope components.
-
-Below is a fast and dirty assembly of the foldscope if you're in a rush to get going. Practice capturing images before you make your first moulds though!
+It's worth noting aswell that the original [Foldscope Academic Paper](http://arxiv.org/abs/1403.1211) imagined the Foldscope could be a xenodiagnostic tool to identify host/parasites in blood and urine samples, or do haemocytometer counts, so viewing such samples at a safe distance with a phone is essential. The foldscope works with glass slides really well in addition to the paper slides included in the foldscope pop-out 'net' where you assembled all your foldscope components.
 
 
-## Fast & Dirty Quickstart: Foldscope Assembly ⏩🔬
+Practice capturing images before you make your first moulds though!
+
+
+## Quickstart: Minimal Foldscope Assembly for Phone Use ⏩🔬📲
 
 <img src="images/13.jpg" height="200">
 <img src="images/14.jpg" height="200">
 
 
-1.  Open up your foldscope kit and open the instructions. We are going
-    to just build the lens stage and focus ramp, a minimal build to look
-    at some algae and make moulds and connect to our phone cameras.
-    Steps 1 - 6, and step 10. of the **ASSEMBLY INSTRUCTIONS**
-    1.  Insert coupler into Lens stage
-    2.  Insert another coupler into the reverse of the stage
-    3.  Fold and lock the bottom flap
-    4.  Insert lens into the Lens stage.
-    5.  Fold the Focus ramp
-    6.  Insert ramp into stage
-    7.  Fold the bottom of the Lens stage.
+Open up your foldscope kit and open the instructions. We are going to just build up just the lens stage and focus ramp, a minimal build to look at some algae and make moulds and connect to our phone cameras. Basically you follow Steps 1 - 6 in the main Foldscope **ASSEMBLY INSTRUCTIONS**, ie the Instructions in the press out net that the 'scope sits inside, and step 10. of the 
+ 
+This method ignores the blue sample stage that lets you hold and move around the sample on the slide, and just uses the magnetic assembly to hold the slide in place. Then turn over the 'scope and follow the instructions of phone use to capture images and lift the phone and magnetically attached 'scope to the light of a window or laptop screen - this is useful if you want to swap between different slides often.    
 
-
+The full build is best 
 
 ## Back in Time ⌛
 
@@ -75,11 +74,11 @@ Your kit should include, in addition to the foldscope, [this inventory of compon
 
 ### PDMS Slide prep 💉💉
 
-You should now be fairly confident you can image things with the Foldscope and take an image with your phone. 
+You should now be fairly confident you can image things with the Foldscope and take an image with your phone. The next step is making moulds with PDMS silicon. There are two component liquids that when mixed will start to cure into a clear solid. Follow all the instructions in the booklet provided. Below is the summary of what you need to do for quick reference if you dont have your booklet with you. 
 
 <img src="bookletimages/13.png" height="200">
 
-Inject equal amounts (0.5ml) of silicon from syringe A and fixer from syringe B into the 'floor' your mini petri dish (it's the smaller diameter part)
+Inject equal amounts (0.4ml) of silicon from syringe A and fixer from syringe B into the 'floor' your mini petri dish (it's the smaller diameter part)
 
 <img src="bookletimages/14.png" height="200">
 <img src="bookletimages/15.png" height="200">
