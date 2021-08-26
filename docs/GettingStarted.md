@@ -99,11 +99,11 @@ Now you need to wait and let it set! This can take, depending on thickness, up t
 
 ## Tips
 
-### Temperature
+### Temperature ⚠🔥 ️
 
 In a warmer place or in sunlight it's alot quicker, some suggestions of heating to 70 degrees Centigrade estimate fully setting in 2 hours.
 
-We `**DO NOT**` recommend heating, anything over 70 degrees and your petri dish will melt. In our case also, using the vinyl fragment, it is safest to just leave it in warm room overnight, You really `**DO NOT want under ANY circumstances to heat your vinyl fragment**`. Vapourising or burning vinyl releases toxic chlorine fumes that even in tiny amounts inhaled can be extremely dangerous and deadly.
+We `**DO NOT**` recommend heating to any temperature you can't touch safely, like a radiator but you should not leave it unattended. Anything over 70 degrees and your petri dish will melt. In our case also, using the vinyl fragment, it is safest to just leave it in warm room overnight or in direct sunlight. You really `**DO NOT want under ANY circumstances to overheat or burn your vinyl fragment**`. Vapourising or burning vinyl (150 degrees and up) can release chlorine fumes that even in tiny amounts inhaled can be extremely dangerous.
 
 ### Other Techniques
 
