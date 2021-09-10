@@ -5,10 +5,9 @@
 
 Now you've received your kit please open when you receive it and leave it in sunlight so the testtube taped to the lid of your kit box is exposed to sunlight - this contains your supply of cultured algae and they need sunlight to stay alive! You also need to carefully open the lid and 'snap' close it again to allow gases to exchange every few days to ensure they stay healthy and thriving
 
-Click on the YouTube Clip below for an introduction to your Foldscope and LabFromAChip kit!
+***Click on the YouTube Clip below for an introduction to your Foldscope and LabFromAChip kit!***
 
-**EMBEDDED VIDEO TO FOLLOW**
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HHnZEMIfX6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You now have a genuine foldscope classroom kit with some extras to help you experiment in DIY microfluidics with the PDMS silicon provided in the pouches labelled `A` & `B`
 
