@@ -9,7 +9,6 @@ Click on the YouTube Clip below for an introduction to your Foldscope and LabFro
 
 **EMBEDDED VIDEO TO FOLLOW**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sF9TxsjTpCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You now have a genuine foldscope classroom kit with some extras to help you experiment in DIY microfluidics with the PDMS silicon provided in the pouches labelled `A` & `B`
 
