@@ -3,7 +3,11 @@
 
 ## Welcome! ⚠ ️
 
-Warning: This project takes time!
+Now you've received your kit please open when you receive it and leave it in sunlight so the testtube taped to the lid of your kit box is exposed to sunlight - this contains your supply of cultured algae and they need sunlight to stay alive! You also need to carefully open the lid and 'snap' close it again to allow gases to exchange every few days to ensure they stay healthy and thriving
+
+Click on the YouTube Clip below for an introduction to your Foldscope and LabFromAChip kit!
+
+**EMBEDDED VIDEO TO FOLLOW**
 
 You now have a genuine foldscope classroom kit with some extras to help you experiment in DIY microfluidics with the PDMS silicon provided in the pouches labelled `A` & `B`
 
@@ -52,8 +56,8 @@ Practice capturing images before you make your first moulds though!
 
 The full build is best for general use and practice so get used to that first - it's quite easy to take away the stage later on. This method is useful if you want to swap between different slides often with your phone.    
 
-Open up your foldscope kit and open the instructions. We are going to just build up just the lens stage and focus ramp, a minimal build to look at some algae and make moulds and connect to our phone cameras. Basically you follow Steps 1 - 6 in the main Foldscope **ASSEMBLY INSTRUCTIONS**, ie the Instructions in the press out net that the 'scope sits inside, and step 10. of the 
- 
+Open up your foldscope kit and open the instructions. We are going to just build up just the lens stage and focus ramp, a minimal build to look at some algae and make moulds and connect to our phone cameras. Basically you follow Steps 1 - 6 in the main Foldscope **ASSEMBLY INSTRUCTIONS**, ie the Instructions in the press out net that the 'scope sits inside, and step 10. of the
+
 This method ignores the blue sample stage that lets you hold and move around the sample on the slide, and just uses the magnetic assembly to hold the slide in place. Then turn over the 'scope and follow the instructions of phone use to capture images and lift the phone and magnetically attached 'scope to the light of a window or laptop screen.
 
 
@@ -75,7 +79,7 @@ Your kit should include, in addition to the foldscope, [this inventory of compon
 
 ### PDMS Slide prep 💉💉
 
-You should now be fairly confident you can image things with the Foldscope and take an image with your phone. The next step is making moulds with PDMS silicon. There are two component liquids that when mixed will start to cure into a clear solid. Follow all the instructions in the booklet provided. Below is the summary of what you need to do for quick reference if you dont have your booklet with you. 
+You should now be fairly confident you can image things with the Foldscope and take an image with your phone. The next step is making moulds with PDMS silicon. There are two component liquids that when mixed will start to cure into a clear solid. Follow all the instructions in the booklet provided. Below is the summary of what you need to do for quick reference if you dont have your booklet with you.
 
 <img src="bookletimages/13.png" height="200">
 
@@ -109,7 +113,7 @@ We `**DO NOT**` recommend heating to any temperature you can't touch safely, lik
 
 You can of course make more impressions in other containers with the `A` & `B` mix.
 
-While you wait practice with your foldscope and experiment viewing your algae and other things without your PDMS slab. The paper slides and plastic clear coverslip stickers provided also are worth experimenting with. 
+While you wait practice with your foldscope and experiment viewing your algae and other things without your PDMS slab. The paper slides and plastic clear coverslip stickers provided also are worth experimenting with.
 
 ### Bubbles
 
@@ -273,4 +277,3 @@ LED & Battery. For lighting up your *Euglena gracilis* Watch 'em go!
 We've included an LED and battery which you can use for extra lighting with the help of your tape. You can also use them as an [LED Throwie](https://makezine.com/projects/led-throwies/) for guerilla LED graffitti on the macroscale.
 
 *Euglena gracilis* are popular in the [field of Biotic games](https://biodigitalgames.com/). Use your LED to see if you can make the algae move in the direction you wantto see if you can make the algae move in the direction you want. If you look carefully you'll see their tiny red spot which is sensitive to light, they'll make their way toward the light as for them (like us) it's a source of food and energy  
-
