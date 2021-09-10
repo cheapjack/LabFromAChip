@@ -54,9 +54,9 @@ Practice capturing images before you make your first moulds though!
 <img src="images/14.jpg" height="200">
 
 
-The full build is best for general use and practice so get used to that first - it's quite easy to take away the stage later on. This method is useful if you want to swap between different slides often with your phone.    
+The full build as described in the video is best for general use and practice so get used to that first - it's quite easy to take away the stage later on. This method is useful if you want to swap between many different slides often with your phone.    
 
-Open up your foldscope kit and open the instructions. We are going to just build up just the lens stage and focus ramp, a minimal build to look at some algae and make moulds and connect to our phone cameras. Basically you follow Steps 1 - 6 in the main Foldscope **ASSEMBLY INSTRUCTIONS**, ie the Instructions in the press out net that the 'scope sits inside, and step 10. of the
+Open up your foldscope kit and open the instructions. We are going to just build up just the lens stage and focus ramp, a minimal build to look at some algae and make moulds and connect to our phone cameras. Basically you follow Steps **1** - **6** in the main Foldscope **ASSEMBLY INSTRUCTIONS**, ie the Instructions in the press out net that the 'scope sits inside, and step **10**. of the
 
 This method ignores the blue sample stage that lets you hold and move around the sample on the slide, and just uses the magnetic assembly to hold the slide in place. Then turn over the 'scope and follow the instructions of phone use to capture images and lift the phone and magnetically attached 'scope to the light of a window or laptop screen.
 
@@ -81,21 +81,25 @@ Your kit should include, in addition to the foldscope, [this inventory of compon
 
 You should now be fairly confident you can image things with the Foldscope and take an image with your phone. The next step is making moulds with PDMS silicon. There are two component liquids that when mixed will start to cure into a clear solid. Follow all the instructions in the booklet provided. Below is the summary of what you need to do for quick reference if you dont have your booklet with you.
 
+To safely store and transport the PDMS we've had to put them in pouches - each pouch has 4-6ml of PDMS component but it can be awkward to syringe. You only need a small amount to mix in - 0.4ml, but you may end up with air bubbles in the syringe. Hold the syringe vertically with the tip pointing upwards and wait for the bubbles to rise to the surface then gently push the liquid up to the tip - you want it to be as free of air bubbles as possible.
+
+An alternative is to squeeze empty the pouch into another clean narrow container and then syringe up the contents - you can keep the syringe full for other experiments and store it in the packaging or if you are worried about leaks syringe back into the pouch - but dont get them mixed up!
+
 <img src="bookletimages/13.png" height="200">
 
-Inject equal amounts (0.4ml) of silicon from syringe A and fixer from syringe B into the 'floor' your mini petri dish (it's the smaller diameter part)
+Inject equal amounts (no more than 0.4ml of each) of silicon from syringe A and fixer from syringe B into the 'floor' your mini petri dish (it's the smaller diameter part - the wider diameter part is the lid)
 
 <img src="bookletimages/14.png" height="200">
 <img src="bookletimages/15.png" height="200">
 
-Mix well and add lid
+Mix well with a clean spoon or rod to remove bubbles and put the lid on.
 
 
 ## Making An Impression 📥⌛
 
 <img src="bookletimages/impressionmaking.png" height="200" align="right">
 
-You now need to make an impression in the PDMS mix after mixing and spinning. To do this take your black viny fragment or `555` timer chip and with tweezers gently place grooves (if you're using a vinyl fragment) or the chip logo (if using the chip). Press it gently into the mix and you'll end up with a 'slab' of silicon with the impressions of the record grooves or the chip surface when it sets. This is tricky, press too hard and your section of PDMS is too thin to remove in one piece with the grooves or chip markings once it hardens. Usually just resting it in the mix is enough providing you dont drop or move the petri dish too much after.
+You now need to make an impression in the PDMS mix after mixing. To do this take your black viny fragment and with tweezers gently submerge it grooves facing up in the bottom of the dish. You want there to be a thin film or slab of silicon over the top. Over time the liquid settles perfectly perpendicular so make sure there's enough to keep the vinyl submerged - but not too much - we are aiming for a thin slab of silicon with an impression in it. Then take the `555` timer chip and bend the metal legs at each corner upwards so that when placing the chip logo down into the PDMS in the dish you end up with a thin film of liquid between the chip surface and the bottom of the petri dish. Press it gently into the mix and you'll end up with a 'slab' of silicon under the chip with an impression of the logo and text of the chip surface - the metal legs keep it less than a mm above the surface of the bottom of the dish. This is tricky, press too hard and your section of PDMS is too thin to remove in one piece with the chip markings once it hardens. The vinyl record grooves face up submerged in the liquid there should be a thin film Usually just resting it in the mix is enough providing you dont drop or move the petri dish too much after.
 
 <img src="bookletimages/impressionmaking2.png" width="200" align="left">
 
@@ -134,9 +138,9 @@ Get your disposable micro-pipette and capture a drop of algae, being careful not
 
 <img src="bookletimages/17.png" height="200">
 
-Use the micro disposable pipette to inject a drop of the algae suspension into and under the side of the impressed silicon and dont worry about excess liquid around it. Capilliary action should pull the liquid and our algal friends into the gap between the tiny impressions of the chip surface markings or the vinyl channels and the microscope slide.
+Use the micro disposable pipette to inject a drop of the algae suspension onto the slide and then with tweezers place your PDMS slab on top. You can also try letting capilliary action pull the liquid and our algal friends into the grooves into the gap between the tiny impressions of the chip surface markings or the vinyl channels and the microscope slide.
 
-Now carefully add a cover slip over the top and the excess liquid should help it stick to the side. You can get results without a cover slip if you find that your slab is too thick; but you can rub the slab off the slide if you move it around the lens too much.
+Now carefully add a cover slip sticker over the top to 'trap' the liquid and slab.
 
 
 ## Fixing to the foldscope.
@@ -158,15 +162,11 @@ Make sure you have got used to inserting and securing a glass slide into the Fol
 
 <img src="images/insert-slide.png" height="200" align="right">
 
-If you've made a nice slim PDMS impression we have found it useful to gently place a glass coverslip over the slab and algae suspension, then allow capillary action again by pressing very gently to secure the slip to the slide. You might see little 'rainbows' on the slide if it's secure, called Newtons rings.
-
-If its really thick you can easily break the coverslip and this can make tiny dangerous glass fragments, so it is possible to view the slab without especially if working with young children
-
-Insert your prepared slide into the Foldscope as below (be careful slotting it in not to push your PDMS slab or coverslip away)
+Insert your slide into the Foldscope as below (be careful slotting it in not to push your PDMS slab or coverslip away)
 
 ### Cover slip Tip
 
-We've found using a glass slide and glass cover slip only works well if your PDMS slab is super thin. In the lab, spinning in a centrifuge usually achieves this. We have no such luxuries of course so often a PDMS slab is too thick and the glass coverslip slips off. We found using the re-useable glass slide and the included clear plastic sticker coverslips work really well with thicker slabs. They are in the Foldscope plastic bag and you can peel them off; bend the backing sheet so you can lift off a corner of the clear coverslip stickers, then use tweezers to place over your slab and algae suspension and seal them in.
+ We found using the re-useable glass slide and the included clear plastic sticker coverslips work really well even with thicker slabs. They are in the Foldscope plastic bag and you can peel them off; bend the backing sheet so you can lift off a corner of the clear coverslip stickers, then use tweezers to place over your slab and algae suspension and seal them in.
 
 You can still lift up the sticker and add water if the suspension starts to dry up
 
@@ -262,18 +262,3 @@ Cover slip stickers for those more awkward thick PDMS slabs and samples
 
 <img src="images/phonestickers.png" alt="Picture of phone stickers" height="200">
 Phone stickers for fixing a magnetic lens frame to your phone camera
-
-<img src="images/tape.jpg" alt="Picture of micro sellotape" height="200">
-
-Easy tear sellotape for fixing your slide to the 'scope and securing your petri dish when using the paperfuge.
-
-#### LED throwie
-
-LED & Battery. For lighting up your *Euglena gracilis* Watch 'em go!
-
-<img src="images/18.jpg" height="200">
-<img src="images/19.jpg" height="200">
-
-We've included an LED and battery which you can use for extra lighting with the help of your tape. You can also use them as an [LED Throwie](https://makezine.com/projects/led-throwies/) for guerilla LED graffitti on the macroscale.
-
-*Euglena gracilis* are popular in the [field of Biotic games](https://biodigitalgames.com/). Use your LED to see if you can make the algae move in the direction you wantto see if you can make the algae move in the direction you want. If you look carefully you'll see their tiny red spot which is sensitive to light, they'll make their way toward the light as for them (like us) it's a source of food and energy  
