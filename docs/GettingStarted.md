@@ -3,7 +3,11 @@
 
 ## Welcome! ⚠ ️
 
-Now you've received your kit please open when you receive it and leave it in sunlight so the testtube taped to the lid of your kit box is exposed to sunlight - this contains your supply of cultured algae and they need sunlight to stay alive! You also need to carefully open the lid and 'snap' close it again to allow gases to exchange every few days to ensure they stay healthy and thriving
+Now you've received your kit please open when you receive it and leave it in sunlight so the testtube taped to the lid of your kit box is exposed to sunlight - this contains your supply of cultured algae and they need sunlight to stay alive! You also need to carefully open the lid and 'snap' close it again to allow gases to exchange every few days to ensure they stay healthy and thriving between workshops and hopefully keep the colony going for as long as possible - which will be a nice rewarding goal to aim for I think.
+
+## First Session🔬📲
+
+We'll be going over microscope use in our first session and then doing the moulding element together in session so please leave the moulding till later. In the clip I mention that there will be a moulding video but I think it will be better to do this 'together' online. The instruction booklet is then there for future reference. So play with your assembled 'scope if you can, but dont worry if you don't have time or are unable to do it for any reason (you don't need to give a reason!). You can still take part and assemble the scope in the first session or whenever you want.
 
 ***Click on the YouTube Clip below for an introduction to your Foldscope and LabFromAChip kit!***
 
@@ -48,7 +52,7 @@ It's worth noting aswell that the original [Foldscope Academic Paper](http://arx
 Practice capturing images before you make your first moulds though!
 
 
-## Quickstart: Minimal Foldscope Assembly for Phone Use ⏩🔬📲
+## Quickstart: Minimal Foldscope Assembly for Phone Use 🔬📲
 
 <img src="images/13.jpg" height="200">
 <img src="images/14.jpg" height="200">
@@ -234,7 +238,7 @@ Vinyl fragment. Some of you may not remember, but at the dawn of pop culture and
 
 <img src="bookletimages/9.png" height="200">
 
-Blank glass Microscope slide with cover slips for your own PDMS mould. Take care with the glass cover slips
+Blank glass Microscope slide for use with the cover slip stickers
 
 <img src="bookletimages/11.png" height="200">
 
@@ -249,16 +253,16 @@ Standard Foldscope classroom kit, instructions, sticker set, lens cleaning q-tip
 
 <img src="bookletimages/10.png" alt="Picture of prepared slide" height="200">
 
-Pre-prepared PDMS with coverslip slide made from old vinyl record. This is to help you get started but you can make your own by 'painting' mixed PDMS onto your own records or other surfaces
-
-**NOTE** This is only in later complete kits
+Pre-prepared stained slide for reference and testing.
 
 <img src="bookletimages/VinylFragment.png" height="200">
 
 Vinyl record Fragment. Some of you may not have a record collection and listen on big data infrastuctures like Spotify or YouTube or maybe if you care about artists getting paid, Bandcamp. You can't really get impressions from these sources although if you could access their server racks in the correct data centre you could find a hard drive that likely has some micro-engineered structures but you'd get in trouble!
 
 <img src="images/coverslipstickers.png" alt="Picture of coverslip stickers" height="200">
-Cover slip stickers for those more awkward thick PDMS slabs and samples
+
+Cover slip stickers
 
 <img src="images/phonestickers.png" alt="Picture of phone stickers" height="200">
-Phone stickers for fixing a magnetic lens frame to your phone camera
+
+Ring stickers for fixing the 'scope to your phone camera
