@@ -9,6 +9,8 @@ Now you've received your kit please open when you receive it and leave it in sun
 
 We'll be going over microscope use in our first session and then doing the moulding element together in session so please leave the moulding till later. In the clip I mention that there will be a moulding video but I think it will be better to do this 'together' online. The instruction booklet is then there for future reference. So play with your assembled 'scope if you can, but dont worry if you don't have time or are unable to do it for any reason (you don't need to give a reason!). You can still take part and assemble the scope in the first session or whenever you want.
 
+So just to be clear, if you are taking part in the online workshops, don't start the moulding process, just familiarize yourself with the kit and process and play with the included paper slides, we'll do the moulding together!
+
 ***Click on the YouTube Clip below for an introduction to your Foldscope and LabFromAChip kit!***
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HHnZEMIfX6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -76,6 +78,8 @@ In many ways the foldscope puts us back in time as we struggle (and it can be!) 
 ## Foldscope Ready 🔬
 
 Once you have managed to successfully view the included sample glass slide in the foldscope and got to grips with the phone view, check out your Lab From A Chip booklet.
+
+Again if you are taking part in the online workshops, don't start the moulding process, just familiarize yourself with the kit and process and play with the paper slides, we'll do the moulding together!
 
 Below are additional notes to complement the instruction booklet included in your Foldscope kit bag.
 
