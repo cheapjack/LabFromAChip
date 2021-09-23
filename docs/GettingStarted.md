@@ -1,7 +1,7 @@
 
 ![Kits ready for postage](images/KitPostLime.png)
 
-## Welcome! ⚠ ️
+## Welcome To A Feeling for the (Micro) Organisms! ⚠ ️
 
 Now you've received your kit please open when you receive it and leave it in sunlight so the testtube taped to the lid of your kit box is exposed to sunlight - this contains your supply of cultured algae and they need sunlight to stay alive! You also need to carefully open the lid and 'snap' close it again to allow gases to exchange every few days to ensure they stay healthy and thriving between workshops and hopefully keep the colony going for as long as possible - which will be a nice rewarding goal to aim for I think.
 
@@ -21,7 +21,7 @@ So just to be clear, if you are taking part in the online workshops, don't start
 
 Coming soon!
 
-### Set mould Slide Preperation & Phone viewing 
+### Set mould Slide Preperation & Phone viewing
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sF9TxsjTpCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
