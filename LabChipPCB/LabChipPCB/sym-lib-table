@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name LabChipPCB-cache)(type Legacy)(uri ${KIPRJMOD}/LabChipPCB-cache.lib)(options "")(descr ""))
+  (lib (name New_Library)(type Legacy)(uri /home/cheapjack/KiCadComponents/New_Library.lib)(options "")(descr ""))
+  (lib (name SSD1306-128x64_OLED)(type Legacy)(uri /home/cheapjack/KiCadComponents/KiCad-SSD1306-128x64/library/SSD1306-128x64_OLED.lib)(options "")(descr ""))
+)
