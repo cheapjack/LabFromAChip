@@ -16,12 +16,12 @@ $EndDescr
 $Comp
 L Device:Battery_Cell BT1
 U 1 1 609F1AB7
-P 4900 3400
-F 0 "BT1" H 5018 3496 50  0000 L CNN
-F 1 "CR2032" H 5018 3405 50  0000 L CNN
-F 2 "Battery:BatteryHolder_Keystone_1060_1x2032" V 4900 3460 50  0001 C CNN
-F 3 "~" V 4900 3460 50  0001 C CNN
-	1    4900 3400
+P 4900 3550
+F 0 "BT1" H 5018 3646 50  0000 L CNN
+F 1 "CR2032" H 5018 3555 50  0000 L CNN
+F 2 "Battery:BatteryHolder_Keystone_1060_1x2032" V 4900 3610 50  0001 C CNN
+F 3 "~" V 4900 3610 50  0001 C CNN
+	1    4900 3550
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -156,8 +156,6 @@ Wire Wire Line
 	8250 3350 8250 3550
 Wire Wire Line
 	8250 3850 8250 4100
-Wire Wire Line
-	4900 3500 4900 3850
 $Comp
 L Device:R_Small R4
 U 1 1 60ABE374
@@ -328,4 +326,19 @@ F 3 "" H 7600 3700 50  0001 C CNN
 	1    7600 3450
 	0    -1   -1   0   
 $EndComp
+$Comp
+L Connector:Conn_01x02_Male J1
+U 1 1 6226D12F
+P 4700 3200
+F 0 "J1" H 4808 3381 50  0000 C CNN
+F 1 "Conn_01x02_Male" H 4808 3290 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 4700 3200 50  0001 C CNN
+F 3 "~" H 4700 3200 50  0001 C CNN
+	1    4700 3200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4900 3650 4900 3850
+Wire Wire Line
+	4900 3350 4900 3300
 $EndSCHEMATC
